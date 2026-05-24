@@ -23,6 +23,9 @@ venv/
 playwright-report/
 test-results/
 
+# Private documents
+CDS6324_AssignmentReport_TT2L_G15.pdf
+
 # Large data files
 data_files.zip
 data/telco_source_screenshots.pdf
