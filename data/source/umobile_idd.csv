@@ -1,0 +1,467 @@
+record_id,brand,country,region,plan_type,rate_per_min_myr,rate_fixed_per_min_myr,rate_per_sms_myr,country_code,access_code,plan_specific,notes,source_url,scraped_at
+1,U Mobile,Afghanistan,South Asia,prepaid,2.38,2.38,0.35,93.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+2,U Mobile,Afghanistan,South Asia,postpaid,2.38,2.38,0.35,93.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+3,U Mobile,Albania,Europe,prepaid,2.38,2.38,0.35,355.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+4,U Mobile,Albania,Europe,postpaid,2.38,2.38,0.35,355.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+5,U Mobile,Algeria,Africa,prepaid,2.38,2.38,0.35,213.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+6,U Mobile,Algeria,Africa,postpaid,2.38,2.38,0.35,213.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+7,U Mobile,American Samoa,Oceania,prepaid,1.38,1.38,0.35,1684.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+8,U Mobile,American Samoa,Oceania,postpaid,1.38,1.38,0.35,1684.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+9,U Mobile,Andorra,Other,prepaid,3.38,3.38,0.35,376.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+10,U Mobile,Andorra,Other,postpaid,3.38,3.38,0.35,376.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+11,U Mobile,Angola,Other,prepaid,3.38,3.38,0.35,244.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+12,U Mobile,Angola,Other,postpaid,3.38,3.38,0.35,244.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+13,U Mobile,Anguilla,Other,prepaid,3.38,3.38,0.35,1264.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+14,U Mobile,Anguilla,Other,postpaid,3.38,3.38,0.35,1264.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+15,U Mobile,Antarctica,Other,prepaid,16.0,16.0,0.35,672.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+16,U Mobile,Antarctica,Other,postpaid,16.0,16.0,0.35,672.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+17,U Mobile,Antigua and Barbuda,Other,prepaid,,,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+18,U Mobile,Antigua and Barbuda,Other,postpaid,,,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+19,U Mobile,Argentina,South America,prepaid,,,0.35,54.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+20,U Mobile,Argentina,South America,postpaid,,,0.35,54.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+21,U Mobile,Armenia,Other,prepaid,3.38,3.38,0.35,374.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+22,U Mobile,Armenia,Other,postpaid,3.38,3.38,0.35,374.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+23,U Mobile,Aruba,Other,prepaid,3.38,3.38,0.35,297.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+24,U Mobile,Aruba,Other,postpaid,3.38,3.38,0.35,297.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+25,U Mobile,Ascension Island,Other,prepaid,3.38,3.38,0.35,247.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+26,U Mobile,Ascension Island,Other,postpaid,3.38,3.38,0.35,247.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+27,U Mobile,Australia,Oceania,prepaid,0.9,0.9,0.35,61.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+28,U Mobile,Australia,Oceania,postpaid,1.0,1.0,0.35,61.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+29,U Mobile,Austria,Europe,prepaid,2.38,2.38,0.35,43.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+30,U Mobile,Austria,Europe,postpaid,2.38,2.38,0.35,43.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+31,U Mobile,Azerbaijan,Other,prepaid,3.38,3.38,0.35,994.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+32,U Mobile,Azerbaijan,Other,postpaid,3.38,3.38,0.35,994.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+33,U Mobile,Bahamas,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+34,U Mobile,Bahamas,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+35,U Mobile,Bahrain,Middle East,prepaid,1.38,1.38,0.35,973.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+36,U Mobile,Bahrain,Middle East,postpaid,1.38,1.38,0.35,973.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+37,U Mobile,Bangladesh,South Asia,prepaid,0.08,0.08,0.35,880.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+38,U Mobile,Bangladesh,South Asia,postpaid,0.9,0.9,0.35,880.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+39,U Mobile,Barbados,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+40,U Mobile,Barbados,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+41,U Mobile,Belarus,Europe,prepaid,3.38,3.38,0.35,375.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+42,U Mobile,Belarus,Europe,postpaid,3.38,3.38,0.35,375.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+43,U Mobile,Belgium,Europe,prepaid,2.38,2.38,0.35,32.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+44,U Mobile,Belgium,Europe,postpaid,2.38,2.38,0.35,32.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+45,U Mobile,Belize,Other,prepaid,3.38,3.38,0.35,501.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+46,U Mobile,Belize,Other,postpaid,3.38,3.38,0.35,501.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+47,U Mobile,Benin,Other,prepaid,3.38,3.38,0.35,229.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+48,U Mobile,Benin,Other,postpaid,3.38,3.38,0.35,229.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+49,U Mobile,Bermuda,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+50,U Mobile,Bermuda,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+51,U Mobile,Bhutan,South Asia,prepaid,3.38,3.38,0.35,975.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+52,U Mobile,Bhutan,South Asia,postpaid,3.38,3.38,0.35,975.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+53,U Mobile,Bolivia,South America,prepaid,3.38,3.38,0.35,591.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+54,U Mobile,Bolivia,South America,postpaid,3.38,3.38,0.35,591.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+55,U Mobile,Bosnia,Other,prepaid,3.38,3.38,0.35,387.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+56,U Mobile,Bosnia,Other,postpaid,3.38,3.38,0.35,387.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+57,U Mobile,Botswana,Other,prepaid,3.38,3.38,0.35,267.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+58,U Mobile,Botswana,Other,postpaid,3.38,3.38,0.35,267.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+59,U Mobile,Brazil,South America,prepaid,3.38,3.38,0.35,55.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+60,U Mobile,Brazil,South America,postpaid,3.38,3.38,0.35,55.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+61,U Mobile,British Virgin Islands,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+62,U Mobile,British Virgin Islands,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+63,U Mobile,Brunei,Southeast Asia,prepaid,0.6,0.6,0.35,673.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+64,U Mobile,Brunei,Southeast Asia,postpaid,2.0,2.0,0.35,673.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+65,U Mobile,Bulgaria,Europe,prepaid,3.38,3.38,0.35,359.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+66,U Mobile,Bulgaria,Europe,postpaid,3.38,3.38,0.35,359.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+67,U Mobile,Burkina Faso,Other,prepaid,3.38,3.38,0.35,226.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+68,U Mobile,Burkina Faso,Other,postpaid,3.38,3.38,0.35,226.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+69,U Mobile,Burundi,Other,prepaid,3.38,3.38,0.35,257.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+70,U Mobile,Burundi,Other,postpaid,3.38,3.38,0.35,257.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+71,U Mobile,Cambodia,Southeast Asia,prepaid,0.52,0.52,0.35,855.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+72,U Mobile,Cambodia,Southeast Asia,postpaid,1.3,1.3,0.35,855.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+73,U Mobile,Cameroon,Africa,prepaid,3.38,3.38,0.35,237.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+74,U Mobile,Cameroon,Africa,postpaid,3.38,3.38,0.35,237.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+75,U Mobile,Canada,North America,prepaid,0.28,0.28,0.35,1.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+76,U Mobile,Canada,North America,postpaid,0.28,0.28,0.35,1.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+77,U Mobile,Cape Verde,Other,prepaid,3.38,3.38,0.35,238.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+78,U Mobile,Cape Verde,Other,postpaid,3.38,3.38,0.35,238.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+79,U Mobile,Cayman Islands,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+80,U Mobile,Cayman Islands,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+81,U Mobile,Central African Republic,Other,prepaid,4.38,4.38,0.35,236.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+82,U Mobile,Central African Republic,Other,postpaid,4.38,4.38,0.35,236.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+83,U Mobile,Chad,Other,prepaid,3.38,3.38,0.35,235.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+84,U Mobile,Chad,Other,postpaid,3.38,3.38,0.35,235.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+85,U Mobile,Chile,South America,prepaid,3.38,3.38,0.35,56.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+86,U Mobile,Chile,South America,postpaid,3.38,3.38,0.35,56.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+87,U Mobile,China,East Asia,prepaid,0.26,0.26,0.35,86.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+88,U Mobile,China,East Asia,postpaid,0.5,0.5,0.35,86.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+89,U Mobile,Colombia,South America,prepaid,3.38,3.38,0.35,57.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+90,U Mobile,Colombia,South America,postpaid,3.38,3.38,0.35,57.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+91,U Mobile,Comoros,Other,prepaid,3.38,3.38,0.35,269.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+92,U Mobile,Comoros,Other,postpaid,3.38,3.38,0.35,269.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+93,U Mobile,Congo Brazzaville,Other,prepaid,3.38,3.38,0.35,242.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+94,U Mobile,Congo Brazzaville,Other,postpaid,3.38,3.38,0.35,242.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+95,U Mobile,Congo DR,Other,prepaid,3.38,3.38,0.35,243.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+96,U Mobile,Congo DR,Other,postpaid,3.38,3.38,0.35,243.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+97,U Mobile,Cook Islands,Other,prepaid,4.38,4.38,0.35,682.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+98,U Mobile,Cook Islands,Other,postpaid,4.38,4.38,0.35,682.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+99,U Mobile,Costa Rica,Other,prepaid,3.38,3.38,0.35,506.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+100,U Mobile,Costa Rica,Other,postpaid,3.38,3.38,0.35,506.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+101,U Mobile,Croatia,Europe,prepaid,3.38,3.38,0.35,385.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+102,U Mobile,Croatia,Europe,postpaid,3.38,3.38,0.35,385.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+103,U Mobile,Cuba,Other,prepaid,4.38,4.38,0.35,53.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+104,U Mobile,Cuba,Other,postpaid,4.38,4.38,0.35,53.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+105,U Mobile,Cyprus,Other,prepaid,3.38,3.38,0.35,357.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+106,U Mobile,Cyprus,Other,postpaid,3.38,3.38,0.35,357.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+107,U Mobile,Czech Republic,Europe,prepaid,3.38,3.38,0.35,420.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+108,U Mobile,Czech Republic,Europe,postpaid,3.38,3.38,0.35,420.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+109,U Mobile,Denmark,Europe,prepaid,2.38,0.28,0.35,45.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+110,U Mobile,Denmark,Europe,postpaid,2.38,0.28,0.35,45.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+111,U Mobile,Diego Garcia,Other,prepaid,4.38,4.38,0.35,246.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+112,U Mobile,Diego Garcia,Other,postpaid,4.38,4.38,0.35,246.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+113,U Mobile,Djibouti,Other,prepaid,3.38,3.38,0.35,253.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+114,U Mobile,Djibouti,Other,postpaid,3.38,3.38,0.35,253.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+115,U Mobile,Dominica,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+116,U Mobile,Dominica,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+117,U Mobile,Dominican Republic,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+118,U Mobile,Dominican Republic,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+119,U Mobile,East Timor,Southeast Asia,prepaid,4.38,4.38,0.35,670.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+120,U Mobile,East Timor,Southeast Asia,postpaid,4.38,4.38,0.35,670.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+121,U Mobile,Ecuador,South America,prepaid,3.38,3.38,0.35,593.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+122,U Mobile,Ecuador,South America,postpaid,3.38,3.38,0.35,593.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+123,U Mobile,Egypt,Middle East,prepaid,3.38,3.38,0.35,20.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+124,U Mobile,Egypt,Middle East,postpaid,3.38,3.38,0.35,20.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+125,U Mobile,El Salvador,Other,prepaid,3.38,3.38,0.35,503.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+126,U Mobile,El Salvador,Other,postpaid,3.38,3.38,0.35,503.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+127,U Mobile,Equatorial Guinea,Other,prepaid,3.38,3.38,0.35,240.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+128,U Mobile,Equatorial Guinea,Other,postpaid,3.38,3.38,0.35,240.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+129,U Mobile,Eritrea,Other,prepaid,3.38,3.38,0.35,291.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+130,U Mobile,Eritrea,Other,postpaid,3.38,3.38,0.35,291.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+131,U Mobile,Estonia,Europe,prepaid,3.38,3.38,0.35,372.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+132,U Mobile,Estonia,Europe,postpaid,3.38,3.38,0.35,372.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+133,U Mobile,Ethiopia,Africa,prepaid,3.38,3.38,0.35,251.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+134,U Mobile,Ethiopia,Africa,postpaid,3.38,3.38,0.35,251.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+135,U Mobile,Falkland Islands,Other,prepaid,3.38,3.38,0.35,500.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+136,U Mobile,Falkland Islands,Other,postpaid,3.38,3.38,0.35,500.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+137,U Mobile,Faroe Islands,Other,prepaid,3.38,3.38,0.35,298.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+138,U Mobile,Faroe Islands,Other,postpaid,3.38,3.38,0.35,298.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+139,U Mobile,Fiji,Oceania,prepaid,3.38,3.38,0.35,679.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+140,U Mobile,Fiji,Oceania,postpaid,3.38,3.38,0.35,679.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+141,U Mobile,Finland,Europe,prepaid,2.38,2.38,0.35,358.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+142,U Mobile,Finland,Europe,postpaid,2.38,2.38,0.35,358.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+143,U Mobile,France,Europe,prepaid,1.38,1.38,0.35,33.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+144,U Mobile,France,Europe,postpaid,1.38,1.38,0.35,33.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+145,U Mobile,French Guiana,Other,prepaid,3.38,3.38,0.35,594.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+146,U Mobile,French Guiana,Other,postpaid,3.38,3.38,0.35,594.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+147,U Mobile,French Polynesia,Other,prepaid,3.38,3.38,0.35,689.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+148,U Mobile,French Polynesia,Other,postpaid,3.38,3.38,0.35,689.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+149,U Mobile,Gabon,Other,prepaid,3.38,3.38,0.35,241.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+150,U Mobile,Gabon,Other,postpaid,3.38,3.38,0.35,241.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+151,U Mobile,Gambia,Other,prepaid,3.38,3.38,0.35,220.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+152,U Mobile,Gambia,Other,postpaid,3.38,3.38,0.35,220.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+153,U Mobile,Georgia,Other,prepaid,3.38,3.38,0.35,995.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+154,U Mobile,Georgia,Other,postpaid,3.38,3.38,0.35,995.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+155,U Mobile,Germany,Europe,prepaid,0.98,0.98,0.35,49.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+156,U Mobile,Germany,Europe,postpaid,0.98,0.98,0.35,49.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+157,U Mobile,Ghana,Africa,prepaid,3.38,3.38,0.35,233.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+158,U Mobile,Ghana,Africa,postpaid,3.38,3.38,0.35,233.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+159,U Mobile,Gibraltar,Other,prepaid,3.38,3.38,0.35,350.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+160,U Mobile,Gibraltar,Other,postpaid,3.38,3.38,0.35,350.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+161,U Mobile,Greece,Europe,prepaid,2.38,2.38,0.35,30.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+162,U Mobile,Greece,Europe,postpaid,2.38,2.38,0.35,30.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+163,U Mobile,Greenland,Other,prepaid,3.38,3.38,0.35,299.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+164,U Mobile,Greenland,Other,postpaid,3.38,3.38,0.35,299.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+165,U Mobile,Grenada,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+166,U Mobile,Grenada,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+167,U Mobile,Guadeloupe,Other,prepaid,3.38,3.38,0.35,590.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+168,U Mobile,Guadeloupe,Other,postpaid,3.38,3.38,0.35,590.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+169,U Mobile,Guam,Oceania,prepaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+170,U Mobile,Guam,Oceania,postpaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+171,U Mobile,Guatemala,Other,prepaid,3.38,3.38,0.35,502.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+172,U Mobile,Guatemala,Other,postpaid,3.38,3.38,0.35,502.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+173,U Mobile,Guernsey,Other,prepaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+174,U Mobile,Guernsey,Other,postpaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+175,U Mobile,Guinea +224),Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+176,U Mobile,Guinea +224),Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+177,U Mobile,Guinea Bissau,Other,prepaid,4.38,4.38,0.35,245.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+178,U Mobile,Guinea Bissau,Other,postpaid,4.38,4.38,0.35,245.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+179,U Mobile,Guyana,South America,prepaid,3.38,3.38,0.35,592.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+180,U Mobile,Guyana,South America,postpaid,3.38,3.38,0.35,592.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+181,U Mobile,Haiti,Other,prepaid,3.38,3.38,0.35,509.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+182,U Mobile,Haiti,Other,postpaid,3.38,3.38,0.35,509.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+183,U Mobile,Honduras,Other,prepaid,3.38,3.38,0.35,504.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+184,U Mobile,Honduras,Other,postpaid,3.38,3.38,0.35,504.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+185,U Mobile,Hong Kong,East Asia,prepaid,0.58,0.28,0.35,852.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+186,U Mobile,Hong Kong,East Asia,postpaid,0.58,0.28,0.35,852.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+187,U Mobile,Hungary,Europe,prepaid,3.38,3.38,0.35,36.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+188,U Mobile,Hungary,Europe,postpaid,3.38,3.38,0.35,36.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+189,U Mobile,Iceland,Other,prepaid,2.38,0.28,0.35,354.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+190,U Mobile,Iceland,Other,postpaid,2.38,0.28,0.35,354.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+191,U Mobile,India,South Asia,prepaid,0.12,0.12,0.35,91.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+192,U Mobile,India,South Asia,postpaid,1.9,1.9,0.35,91.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+193,U Mobile,Indonesia,Southeast Asia,prepaid,0.18,0.18,0.35,62.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+194,U Mobile,Indonesia,Southeast Asia,postpaid,2.0,2.0,0.35,62.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+195,U Mobile,Iran,Middle East,prepaid,1.36,1.36,0.35,98.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+196,U Mobile,Iran,Middle East,postpaid,2.4,2.4,0.35,98.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+197,U Mobile,Iraq,Middle East,prepaid,1.38,1.38,0.35,964.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+198,U Mobile,Iraq,Middle East,postpaid,1.38,1.38,0.35,964.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+199,U Mobile,Ireland,Europe,prepaid,2.38,2.38,0.35,353.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+200,U Mobile,Ireland,Europe,postpaid,2.38,2.38,0.35,353.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+201,U Mobile,Isle of Man,Other,prepaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+202,U Mobile,Isle of Man,Other,postpaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+203,U Mobile,Israel,Middle East,prepaid,3.38,3.38,0.35,972.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+204,U Mobile,Israel,Middle East,postpaid,3.38,3.38,0.35,972.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+205,U Mobile,Italy,Europe,prepaid,1.38,1.38,0.35,39.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+206,U Mobile,Italy,Europe,postpaid,1.38,1.38,0.35,39.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+207,U Mobile,Ivory Coast,Other,prepaid,3.38,3.38,0.35,225.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+208,U Mobile,Ivory Coast,Other,postpaid,3.38,3.38,0.35,225.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+209,U Mobile,Jamaica,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+210,U Mobile,Jamaica,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+211,U Mobile,Japan,East Asia,prepaid,0.98,0.28,0.35,81.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+212,U Mobile,Japan,East Asia,postpaid,0.98,0.28,0.35,81.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+213,U Mobile,Jordan,Middle East,prepaid,1.38,1.38,0.35,962.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+214,U Mobile,Jordan,Middle East,postpaid,1.38,1.38,0.35,962.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+215,U Mobile,Kazakhstan,Other,prepaid,3.38,3.38,0.35,7.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+216,U Mobile,Kazakhstan,Other,postpaid,3.38,3.38,0.35,7.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+217,U Mobile,Kenya,Africa,prepaid,3.38,3.38,0.35,254.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+218,U Mobile,Kenya,Africa,postpaid,3.38,3.38,0.35,254.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+219,U Mobile,Kiribati,Other,prepaid,4.38,4.38,0.35,686.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+220,U Mobile,Kiribati,Other,postpaid,4.38,4.38,0.35,686.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+221,U Mobile,Kuwait,Middle East,prepaid,1.38,1.38,0.35,965.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+222,U Mobile,Kuwait,Middle East,postpaid,1.38,1.38,0.35,965.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+223,U Mobile,Kyrgyzstan,Other,prepaid,3.38,3.38,0.35,996.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+224,U Mobile,Kyrgyzstan,Other,postpaid,3.38,3.38,0.35,996.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+225,U Mobile,Laos,Southeast Asia,prepaid,0.98,0.98,0.35,856.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+226,U Mobile,Laos,Southeast Asia,postpaid,1.3,1.3,0.35,856.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+227,U Mobile,Latvia,Europe,prepaid,3.38,3.38,0.35,371.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+228,U Mobile,Latvia,Europe,postpaid,3.38,3.38,0.35,371.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+229,U Mobile,Lebanon,Middle East,prepaid,1.38,1.38,0.35,961.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+230,U Mobile,Lebanon,Middle East,postpaid,1.38,1.38,0.35,961.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+231,U Mobile,Lesotho,Other,prepaid,3.38,3.38,0.35,266.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+232,U Mobile,Lesotho,Other,postpaid,3.38,3.38,0.35,266.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+233,U Mobile,Liberia,Other,prepaid,3.38,3.38,0.35,231.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+234,U Mobile,Liberia,Other,postpaid,3.38,3.38,0.35,231.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+235,U Mobile,Libya,Middle East,prepaid,3.38,3.38,0.35,218.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+236,U Mobile,Libya,Middle East,postpaid,3.38,3.38,0.35,218.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+237,U Mobile,Liechtenstein,Other,prepaid,3.38,3.38,0.35,423.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+238,U Mobile,Liechtenstein,Other,postpaid,3.38,3.38,0.35,423.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+239,U Mobile,Lithuania,Europe,prepaid,3.38,3.38,0.35,370.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+240,U Mobile,Lithuania,Europe,postpaid,3.38,3.38,0.35,370.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+241,U Mobile,Luxembourg,Other,prepaid,2.38,2.38,0.35,352.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+242,U Mobile,Luxembourg,Other,postpaid,2.38,2.38,0.35,352.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+243,U Mobile,Macau,East Asia,prepaid,0.58,0.58,0.35,853.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+244,U Mobile,Macau,East Asia,postpaid,0.58,0.58,0.35,853.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+245,U Mobile,Macedonia,Other,prepaid,3.38,3.38,0.35,389.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+246,U Mobile,Macedonia,Other,postpaid,3.38,3.38,0.35,389.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+247,U Mobile,Madagascar,Other,prepaid,3.38,3.38,0.35,261.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+248,U Mobile,Madagascar,Other,postpaid,3.38,3.38,0.35,261.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+249,U Mobile,Malawi,Other,prepaid,3.38,3.38,0.35,265.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+250,U Mobile,Malawi,Other,postpaid,3.38,3.38,0.35,265.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+251,U Mobile,Maldives,South Asia,prepaid,3.38,3.38,0.35,960.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+252,U Mobile,Maldives,South Asia,postpaid,3.38,3.38,0.35,960.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+253,U Mobile,Mali,Other,prepaid,3.38,3.38,0.35,223.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+254,U Mobile,Mali,Other,postpaid,3.38,3.38,0.35,223.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+255,U Mobile,Malta,Other,prepaid,3.38,3.38,0.35,356.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+256,U Mobile,Malta,Other,postpaid,3.38,3.38,0.35,356.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+257,U Mobile,Marshall Islands,Other,prepaid,4.38,4.38,0.35,692.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+258,U Mobile,Marshall Islands,Other,postpaid,4.38,4.38,0.35,692.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+259,U Mobile,Martinique,Other,prepaid,3.38,3.38,0.35,596.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+260,U Mobile,Martinique,Other,postpaid,3.38,3.38,0.35,596.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+261,U Mobile,Mauritania,Other,prepaid,3.38,3.38,0.35,222.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+262,U Mobile,Mauritania,Other,postpaid,3.38,3.38,0.35,222.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+263,U Mobile,Mauritius,Other,prepaid,1.38,1.38,0.35,230.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+264,U Mobile,Mauritius,Other,postpaid,1.38,1.38,0.35,230.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+265,U Mobile,Mayotte,Other,prepaid,3.38,3.38,0.35,262.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+266,U Mobile,Mayotte,Other,postpaid,3.38,3.38,0.35,262.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+267,U Mobile,Mexico,North America,prepaid,3.38,3.38,0.35,52.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+268,U Mobile,Mexico,North America,postpaid,3.38,3.38,0.35,52.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+269,U Mobile,Micronesia,Other,prepaid,3.38,3.38,0.35,691.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+270,U Mobile,Micronesia,Other,postpaid,3.38,3.38,0.35,691.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+271,U Mobile,Moldova,Europe,prepaid,3.38,3.38,0.35,373.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+272,U Mobile,Moldova,Europe,postpaid,3.38,3.38,0.35,373.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+273,U Mobile,Monaco,Other,prepaid,3.38,3.38,0.35,377.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+274,U Mobile,Monaco,Other,postpaid,3.38,3.38,0.35,377.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+275,U Mobile,Mongolia,Other,prepaid,3.38,3.38,0.35,377.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+276,U Mobile,Mongolia,Other,postpaid,3.38,3.38,0.35,377.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+277,U Mobile,Montenegro,Europe,prepaid,2.38,2.38,0.35,382.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+278,U Mobile,Montenegro,Europe,postpaid,2.38,2.38,0.35,382.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+279,U Mobile,Montserrat,Other,prepaid,5.0,5.0,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+280,U Mobile,Montserrat,Other,postpaid,5.0,5.0,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+281,U Mobile,Morocco,Africa,prepaid,3.38,3.38,0.35,212.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+282,U Mobile,Morocco,Africa,postpaid,3.38,3.38,0.35,212.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+283,U Mobile,Mozambique,Other,prepaid,3.38,3.38,0.35,258.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+284,U Mobile,Mozambique,Other,postpaid,3.38,3.38,0.35,258.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+285,U Mobile,Myanmar,Southeast Asia,prepaid,0.8,0.8,0.35,95.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+286,U Mobile,Myanmar,Southeast Asia,postpaid,1.7,1.7,0.35,95.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+287,U Mobile,Namibia,Other,prepaid,3.38,3.38,0.35,264.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+288,U Mobile,Namibia,Other,postpaid,3.38,3.38,0.35,264.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+289,U Mobile,Nauru,Other,prepaid,12.0,12.0,0.35,674.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+290,U Mobile,Nauru,Other,postpaid,12.0,12.0,0.35,674.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+291,U Mobile,Nepal,South Asia,prepaid,0.65,0.65,0.35,977.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+292,U Mobile,Nepal,South Asia,postpaid,1.4,1.4,0.35,977.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+293,U Mobile,Netherlands,Europe,prepaid,2.38,2.38,0.35,31.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+294,U Mobile,Netherlands,Europe,postpaid,2.38,2.38,0.35,31.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+295,U Mobile,Netherlands Antilles,Europe,prepaid,3.38,3.38,0.35,599.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+296,U Mobile,Netherlands Antilles,Europe,postpaid,3.38,3.38,0.35,599.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+297,U Mobile,New Caledonia,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+298,U Mobile,New Caledonia,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+299,U Mobile,New Zealand,Oceania,prepaid,0.98,0.28,0.35,64.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+300,U Mobile,New Zealand,Oceania,postpaid,0.98,0.28,0.35,64.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+301,U Mobile,Nicaragua,Other,prepaid,3.38,3.38,0.35,505.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+302,U Mobile,Nicaragua,Other,postpaid,3.38,3.38,0.35,505.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+303,U Mobile,Niger,Other,prepaid,5.8,5.8,0.35,227.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+304,U Mobile,Niger,Other,postpaid,5.8,5.8,0.35,227.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+305,U Mobile,Nigeria,Africa,prepaid,1.38,1.38,0.35,234.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+306,U Mobile,Nigeria,Africa,postpaid,2.9,2.9,0.35,234.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+307,U Mobile,Niue,Other,prepaid,4.38,4.38,0.35,683.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+308,U Mobile,Niue,Other,postpaid,4.38,4.38,0.35,683.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+309,U Mobile,Norfolk Island,Other,prepaid,4.38,4.38,0.35,672.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+310,U Mobile,Norfolk Island,Other,postpaid,4.38,4.38,0.35,672.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+311,U Mobile,North Korea,Other,prepaid,4.38,4.38,0.35,850.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+312,U Mobile,North Korea,Other,postpaid,4.38,4.38,0.35,850.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+313,U Mobile,Norway,Europe,prepaid,0.98,0.98,0.35,47.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+314,U Mobile,Norway,Europe,postpaid,0.98,0.98,0.35,47.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+315,U Mobile,Oman,Middle East,prepaid,1.38,1.38,0.35,968.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+316,U Mobile,Oman,Middle East,postpaid,1.38,1.38,0.35,968.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+317,U Mobile,Pakistan,South Asia,prepaid,0.28,0.28,0.35,92.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+318,U Mobile,Pakistan,South Asia,postpaid,0.8,0.8,0.35,92.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+319,U Mobile,Palau,Other,prepaid,3.38,3.38,0.35,680.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+320,U Mobile,Palau,Other,postpaid,3.38,3.38,0.35,680.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+321,U Mobile,Palestine,Middle East,prepaid,3.38,3.38,0.35,970.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+322,U Mobile,Palestine,Middle East,postpaid,3.38,3.38,0.35,970.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+323,U Mobile,Panama,Other,prepaid,3.38,3.38,0.35,507.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+324,U Mobile,Panama,Other,postpaid,3.38,3.38,0.35,507.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+325,U Mobile,Papua New Guinea,Oceania,prepaid,3.38,3.38,0.35,675.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+326,U Mobile,Papua New Guinea,Oceania,postpaid,3.38,3.38,0.35,675.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+327,U Mobile,Paraguay,South America,prepaid,3.38,3.38,0.35,595.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+328,U Mobile,Paraguay,South America,postpaid,3.38,3.38,0.35,595.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+329,U Mobile,Peru,South America,prepaid,3.38,3.38,0.35,51.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+330,U Mobile,Peru,South America,postpaid,3.38,3.38,0.35,51.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+331,U Mobile,Philippines,Southeast Asia,prepaid,0.6,0.6,0.35,63.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+332,U Mobile,Philippines,Southeast Asia,postpaid,1.0,1.0,0.35,63.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+333,U Mobile,Poland,Europe,prepaid,3.38,3.38,0.35,48.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+334,U Mobile,Poland,Europe,postpaid,3.38,3.38,0.35,48.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+335,U Mobile,Portugal,Europe,prepaid,3.38,3.38,0.35,351.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+336,U Mobile,Portugal,Europe,postpaid,3.38,3.38,0.35,351.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+337,U Mobile,Puerto Rico (+1-787/1-939),Other,prepaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+338,U Mobile,Puerto Rico (+1-787/1-939),Other,postpaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+339,U Mobile,Qatar,Middle East,prepaid,1.12,1.12,0.35,974.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+340,U Mobile,Qatar,Middle East,postpaid,1.12,1.12,0.35,974.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+341,U Mobile,Reunion,Other,prepaid,3.38,3.38,0.35,262.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+342,U Mobile,Reunion,Other,postpaid,3.38,3.38,0.35,262.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+343,U Mobile,Romania,Europe,prepaid,3.38,3.38,0.35,40.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+344,U Mobile,Romania,Europe,postpaid,3.38,3.38,0.35,40.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+345,U Mobile,Russia,Europe,prepaid,3.38,3.38,0.35,7.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+346,U Mobile,Russia,Europe,postpaid,3.38,3.38,0.35,7.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+347,U Mobile,Rwanda,Other,prepaid,3.38,3.38,0.35,250.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+348,U Mobile,Rwanda,Other,postpaid,3.38,3.38,0.35,250.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+349,U Mobile,Saint Helena,Other,prepaid,4.38,4.38,0.35,290.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+350,U Mobile,Saint Helena,Other,postpaid,4.38,4.38,0.35,290.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+351,U Mobile,Saint Kitts & Nevis,Other,prepaid,3.38,3.38,0.35,1869.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+352,U Mobile,Saint Kitts & Nevis,Other,postpaid,3.38,3.38,0.35,1869.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+353,U Mobile,Saint Lucia,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+354,U Mobile,Saint Lucia,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+355,U Mobile,Saint Pierre and Miquelon,Other,prepaid,3.38,3.38,0.35,508.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+356,U Mobile,Saint Pierre and Miquelon,Other,postpaid,3.38,3.38,0.35,508.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+357,U Mobile,Saipan,Other,prepaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+358,U Mobile,Saipan,Other,postpaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+359,U Mobile,San Marino,Other,prepaid,3.38,3.38,0.35,378.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+360,U Mobile,San Marino,Other,postpaid,3.38,3.38,0.35,378.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+361,U Mobile,Sao Tome and Principe,Other,prepaid,4.38,4.38,0.35,239.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+362,U Mobile,Sao Tome and Principe,Other,postpaid,4.38,4.38,0.35,239.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+363,U Mobile,Saudi Arabia,Middle East,prepaid,1.02,1.02,0.35,966.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+364,U Mobile,Saudi Arabia,Middle East,postpaid,1.02,1.02,0.35,966.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+365,U Mobile,Senegal,Other,prepaid,3.38,3.38,0.35,221.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+366,U Mobile,Senegal,Other,postpaid,3.38,3.38,0.35,221.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+367,U Mobile,Serbia,Europe,prepaid,3.38,3.38,0.35,381.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+368,U Mobile,Serbia,Europe,postpaid,3.38,3.38,0.35,381.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+369,U Mobile,Seychelles,Other,prepaid,3.38,3.38,0.35,248.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+370,U Mobile,Seychelles,Other,postpaid,3.38,3.38,0.35,248.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+371,U Mobile,Sierra Leone,Other,prepaid,3.38,3.38,0.35,232.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+372,U Mobile,Sierra Leone,Other,postpaid,3.38,3.38,0.35,232.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+373,U Mobile,Singapore,Southeast Asia,prepaid,0.27,0.27,0.35,65.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+374,U Mobile,Singapore,Southeast Asia,postpaid,0.27,0.27,0.35,65.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+375,U Mobile,Slovakia,Europe,prepaid,3.38,3.38,0.35,421.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+376,U Mobile,Slovakia,Europe,postpaid,3.38,3.38,0.35,421.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+377,U Mobile,Slovenia,Europe,prepaid,3.38,3.38,0.35,386.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+378,U Mobile,Slovenia,Europe,postpaid,3.38,3.38,0.35,386.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+379,U Mobile,Solomon Islands,Other,prepaid,4.38,4.38,0.35,677.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+380,U Mobile,Solomon Islands,Other,postpaid,4.38,4.38,0.35,677.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+381,U Mobile,Somalia,Other,prepaid,4.38,4.38,0.35,252.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+382,U Mobile,Somalia,Other,postpaid,4.38,4.38,0.35,252.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+383,U Mobile,South Africa,Other,prepaid,3.38,3.38,0.35,27.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+384,U Mobile,South Africa,Other,postpaid,3.38,3.38,0.35,27.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+385,U Mobile,South Korea,East Asia,prepaid,2.4,2.4,0.35,82.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+386,U Mobile,South Korea,East Asia,postpaid,2.5,2.5,0.35,82.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+387,U Mobile,South Sudan,Africa,prepaid,5.0,5.0,0.35,211.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+388,U Mobile,South Sudan,Africa,postpaid,5.0,5.0,0.35,211.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+389,U Mobile,Spain,Europe,prepaid,2.38,2.38,0.35,34.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+390,U Mobile,Spain,Europe,postpaid,2.38,2.38,0.35,34.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+391,U Mobile,Sri Lanka,South Asia,prepaid,0.98,0.98,0.35,94.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+392,U Mobile,Sri Lanka,South Asia,postpaid,0.98,0.98,0.35,94.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+393,U Mobile,St Maarten,Other,prepaid,2.0,2.0,0.35,1721.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+394,U Mobile,St Maarten,Other,postpaid,2.0,2.0,0.35,1721.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+395,U Mobile,St VIncent & the Grenadines,Other,prepaid,3.38,3.38,0.35,1784.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+396,U Mobile,St VIncent & the Grenadines,Other,postpaid,3.38,3.38,0.35,1784.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+397,U Mobile,Sudan,Africa,prepaid,3.38,3.38,0.35,249.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+398,U Mobile,Sudan,Africa,postpaid,3.38,3.38,0.35,249.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+399,U Mobile,Suriname,Other,prepaid,3.38,3.38,0.35,597.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+400,U Mobile,Suriname,Other,postpaid,3.38,3.38,0.35,597.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+401,U Mobile,Swaziland,Other,prepaid,3.38,3.38,0.35,268.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+402,U Mobile,Swaziland,Other,postpaid,3.38,3.38,0.35,268.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+403,U Mobile,Sweden,Europe,prepaid,2.38,0.28,0.35,46.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+404,U Mobile,Sweden,Europe,postpaid,2.38,0.28,0.35,46.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+405,U Mobile,Switzerland,Europe,prepaid,2.38,0.28,0.35,41.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+406,U Mobile,Switzerland,Europe,postpaid,2.38,0.28,0.35,41.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+407,U Mobile,Syria,Middle East,prepaid,3.38,3.38,0.35,963.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+408,U Mobile,Syria,Middle East,postpaid,3.38,3.38,0.35,963.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+409,U Mobile,Taiwan,East Asia,prepaid,0.58,0.28,0.35,886.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+410,U Mobile,Taiwan,East Asia,postpaid,0.58,0.28,0.35,886.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+411,U Mobile,Tajikistan,Other,prepaid,3.38,3.38,0.35,992.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+412,U Mobile,Tajikistan,Other,postpaid,3.38,3.38,0.35,992.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+413,U Mobile,Tanzania,Africa,prepaid,3.38,3.38,0.35,255.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+414,U Mobile,Tanzania,Africa,postpaid,3.38,3.38,0.35,255.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+415,U Mobile,Thailand,Southeast Asia,prepaid,0.36,0.36,0.35,66.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+416,U Mobile,Thailand,Southeast Asia,postpaid,1.7,1.7,0.35,66.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+417,U Mobile,Togo,Other,prepaid,3.38,3.38,0.35,228.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+418,U Mobile,Togo,Other,postpaid,3.38,3.38,0.35,228.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+419,U Mobile,Tokelau,Other,prepaid,4.38,4.38,0.35,690.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+420,U Mobile,Tokelau,Other,postpaid,4.38,4.38,0.35,690.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+421,U Mobile,Tonga,Other,prepaid,3.38,3.38,0.35,676.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+422,U Mobile,Tonga,Other,postpaid,3.38,3.38,0.35,676.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+423,U Mobile,Trinidad & Tobago,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+424,U Mobile,Trinidad & Tobago,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+425,U Mobile,Tunisia,Africa,prepaid,3.38,3.38,0.35,216.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+426,U Mobile,Tunisia,Africa,postpaid,3.38,3.38,0.35,216.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+427,U Mobile,Turkey,Europe,prepaid,3.38,3.38,0.35,90.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+428,U Mobile,Turkey,Europe,postpaid,3.38,3.38,0.35,90.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+429,U Mobile,Turkmenistan,Other,prepaid,3.38,3.38,0.35,993.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+430,U Mobile,Turkmenistan,Other,postpaid,3.38,3.38,0.35,993.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+431,U Mobile,Turks & Caicos,Other,prepaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+432,U Mobile,Turks & Caicos,Other,postpaid,3.38,3.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+433,U Mobile,Tuvalu,Other,prepaid,6.0,6.0,0.35,688.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+434,U Mobile,Tuvalu,Other,postpaid,6.0,6.0,0.35,688.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+435,U Mobile,Uganda,Africa,prepaid,3.38,3.38,0.35,256.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+436,U Mobile,Uganda,Africa,postpaid,3.38,3.38,0.35,256.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+437,U Mobile,Ukraine,Europe,prepaid,3.38,3.38,0.35,380.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+438,U Mobile,Ukraine,Europe,postpaid,3.38,3.38,0.35,380.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+439,U Mobile,United Arab Emirates,Middle East,prepaid,1.02,1.02,0.35,971.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+440,U Mobile,United Arab Emirates,Middle East,postpaid,1.02,1.02,0.35,971.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+441,U Mobile,United Kingdom,Europe,prepaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+442,U Mobile,United Kingdom,Europe,postpaid,0.99,0.8,0.35,44.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+443,U Mobile,United States,North America,prepaid,0.28,0.28,0.35,1.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+444,U Mobile,United States,North America,postpaid,0.28,0.28,0.35,1.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+445,U Mobile,Uruguay,South America,prepaid,3.38,3.38,0.35,598.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+446,U Mobile,Uruguay,South America,postpaid,3.38,3.38,0.35,598.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+447,U Mobile,US Virgin Islands,Other,prepaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+448,U Mobile,US Virgin Islands,Other,postpaid,1.38,1.38,0.35,,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+449,U Mobile,Uzbekistan,Other,prepaid,1.38,1.38,0.35,998.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+450,U Mobile,Uzbekistan,Other,postpaid,1.38,1.38,0.35,998.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+451,U Mobile,Vanuatu,Other,prepaid,3.38,3.38,0.35,678.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+452,U Mobile,Vanuatu,Other,postpaid,3.38,3.38,0.35,678.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+453,U Mobile,Venezuela,South America,prepaid,3.38,3.38,0.35,58.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+454,U Mobile,Venezuela,South America,postpaid,3.38,3.38,0.35,58.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+455,U Mobile,Vietnam,Southeast Asia,prepaid,0.28,0.28,0.35,84.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+456,U Mobile,Vietnam,Southeast Asia,postpaid,1.2,1.2,0.35,84.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+457,U Mobile,Wallis and Futuna,Other,prepaid,4.38,4.38,0.35,681.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+458,U Mobile,Wallis and Futuna,Other,postpaid,4.38,4.38,0.35,681.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+459,U Mobile,Western Samoa,Oceania,prepaid,3.38,3.38,0.35,685.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+460,U Mobile,Western Samoa,Oceania,postpaid,3.38,3.38,0.35,685.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+461,U Mobile,Yemen,Middle East,prepaid,1.38,1.38,0.35,967.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+462,U Mobile,Yemen,Middle East,postpaid,1.38,1.38,0.35,967.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+463,U Mobile,Zambia,Africa,prepaid,3.38,3.38,0.35,260.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+464,U Mobile,Zambia,Africa,postpaid,3.38,3.38,0.35,260.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+465,U Mobile,Zimbabwe,Africa,prepaid,3.38,3.38,0.35,263.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39
+466,U Mobile,Zimbabwe,Africa,postpaid,3.38,3.38,0.35,263.0,133,False,,https://www.u.com.my/en/personal/mobile-plans/roam-travel/international-direct-dial,2026-05-17T16:33:39

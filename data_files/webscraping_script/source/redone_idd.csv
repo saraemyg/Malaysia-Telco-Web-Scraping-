@@ -1,0 +1,495 @@
+record_id,brand,country,region,plan_type,rate_per_min_myr,rate_fixed_per_min_myr,rate_per_sms_myr,notes,source_url,scraped_at
+1,redONE,Afghanistan,South Asia,prepaid,,,,,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+2,redONE,Afghanistan,South Asia,postpaid,,,,,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+3,redONE,Alaska,North America,prepaid,0.43,0.43,0.5,video_call=0.44/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+4,redONE,Alaska,North America,postpaid,0.43,0.43,0.5,video_call=0.44/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+5,redONE,Albania,Europe,prepaid,2.17,2.17,0.5,video_call=2.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+6,redONE,Albania,Europe,postpaid,2.17,2.17,0.5,video_call=2.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+7,redONE,Algeria,Africa,prepaid,2.17,2.17,0.5,video_call=3.62/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+8,redONE,Algeria,Africa,postpaid,2.17,2.17,0.5,video_call=3.62/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+9,redONE,Andorra,Europe,prepaid,2.17,2.17,0.5,video_call=0.17/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+10,redONE,Andorra,Europe,postpaid,2.17,2.17,0.5,video_call=0.17/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+11,redONE,Angola,Africa,prepaid,2.17,2.17,0.5,video_call=1.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+12,redONE,Angola,Africa,postpaid,2.17,2.17,0.5,video_call=1.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+13,redONE,Anguilla,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+14,redONE,Anguilla,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+15,redONE,Antigua & Barbuda,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+16,redONE,Antigua & Barbuda,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+17,redONE,Argentina,South America,prepaid,0.94,0.94,0.5,video_call=0.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+18,redONE,Argentina,South America,postpaid,0.94,0.94,0.5,video_call=0.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+19,redONE,Armenia,Caucasus,prepaid,2.17,2.17,0.5,video_call=1.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+20,redONE,Armenia,Caucasus,postpaid,2.17,2.17,0.5,video_call=1.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+21,redONE,Aruba,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.17/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+22,redONE,Aruba,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.17/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+23,redONE,Ascension Island,Other,prepaid,3.58,3.58,0.5,video_call=7.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+24,redONE,Ascension Island,Other,postpaid,3.58,3.58,0.5,video_call=7.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+25,redONE,Australia,Oceania,prepaid,0.79,0.12,0.5,video_call=0.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+26,redONE,Australia,Oceania,postpaid,0.79,0.12,0.5,video_call=0.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+27,redONE,Australia - Christmas Island,Oceania,prepaid,10.35,10.35,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+28,redONE,Australia - Christmas Island,Oceania,postpaid,10.35,10.35,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+29,redONE,Australia - Cocos Island,Oceania,prepaid,10.35,10.35,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+30,redONE,Australia - Cocos Island,Oceania,postpaid,10.35,10.35,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+31,redONE,Austria,Europe,prepaid,0.16,2.28,0.5,video_call=1.66/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+32,redONE,Austria,Europe,postpaid,0.16,2.28,0.5,video_call=1.66/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+33,redONE,Azerbaijan,Caucasus,prepaid,1.86,1.34,0.5,video_call=1.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+34,redONE,Azerbaijan,Caucasus,postpaid,1.86,1.34,0.5,video_call=1.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+35,redONE,Bahamas,Caribbean,prepaid,2.17,2.17,0.5,video_call=0.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+36,redONE,Bahamas,Caribbean,postpaid,2.17,2.17,0.5,video_call=0.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+37,redONE,Bahrain,Middle East,prepaid,1.22,1.22,0.5,video_call=0.87/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+38,redONE,Bahrain,Middle East,postpaid,1.22,1.22,0.5,video_call=0.87/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+39,redONE,Bangladesh,South Asia,prepaid,0.7,0.7,0.5,video_call=0.7/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+40,redONE,Bangladesh,South Asia,postpaid,0.7,0.7,0.5,video_call=0.7/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+41,redONE,Barbados,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.39/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+42,redONE,Barbados,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.39/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+43,redONE,Belarus,Europe,prepaid,2.17,2.17,0.5,video_call=2.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+44,redONE,Belarus,Europe,postpaid,2.17,2.17,0.5,video_call=2.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+45,redONE,Belgium,Europe,prepaid,4.76,1.12,0.5,video_call=17.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+46,redONE,Belgium,Europe,postpaid,4.76,1.12,0.5,video_call=17.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+47,redONE,Belize,Central America,prepaid,2.17,2.17,0.5,video_call=3.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+48,redONE,Belize,Central America,postpaid,2.17,2.17,0.5,video_call=3.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+49,redONE,Benin,Africa,prepaid,2.17,2.17,0.5,video_call=0.29/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+50,redONE,Benin,Africa,postpaid,2.17,2.17,0.5,video_call=0.29/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+51,redONE,Bermuda,Caribbean,prepaid,2.17,2.17,0.5,video_call=0.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+52,redONE,Bermuda,Caribbean,postpaid,2.17,2.17,0.5,video_call=0.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+53,redONE,Bhutan,South Asia,prepaid,2.17,2.17,0.5,video_call=0.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+54,redONE,Bhutan,South Asia,postpaid,2.17,2.17,0.5,video_call=0.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+55,redONE,Bolivia,South America,prepaid,2.17,2.17,0.5,video_call=1.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+56,redONE,Bolivia,South America,postpaid,2.17,2.17,0.5,video_call=1.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+57,redONE,Bosnia Herzegovina,Europe,prepaid,2.17,2.17,0.5,video_call=4.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+58,redONE,Bosnia Herzegovina,Europe,postpaid,2.17,2.17,0.5,video_call=4.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+59,redONE,Bostwana,Other,prepaid,2.17,2.17,0.5,video_call=1.62/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+60,redONE,Bostwana,Other,postpaid,2.17,2.17,0.5,video_call=1.62/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+61,redONE,Brazil,South America,prepaid,2.17,2.17,0.5,video_call=0.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+62,redONE,Brazil,South America,postpaid,2.17,2.17,0.5,video_call=0.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+63,redONE,Brunei,Southeast Asia,prepaid,0.25,0.29,0.5,video_call=0.25/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+64,redONE,Brunei,Southeast Asia,postpaid,0.25,0.29,0.5,video_call=0.25/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+65,redONE,Bulgaria,Europe,prepaid,2.17,2.17,0.5,video_call=1.24/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+66,redONE,Bulgaria,Europe,postpaid,2.17,2.17,0.5,video_call=1.24/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+67,redONE,Burkina Faso,Africa,prepaid,2.17,2.17,0.5,video_call=1.56/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+68,redONE,Burkina Faso,Africa,postpaid,2.17,2.17,0.5,video_call=1.56/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+69,redONE,Burundi Kingdom,Africa,prepaid,2.17,2.17,0.5,video_call=6.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+70,redONE,Burundi Kingdom,Africa,postpaid,2.17,2.17,0.5,video_call=6.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+71,redONE,Cambodia,Southeast Asia,prepaid,0.45,0.38,0.5,video_call=0.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+72,redONE,Cambodia,Southeast Asia,postpaid,0.45,0.38,0.5,video_call=0.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+73,redONE,Cameroon,Africa,prepaid,2.17,2.17,0.5,video_call=2.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+74,redONE,Cameroon,Africa,postpaid,2.17,2.17,0.5,video_call=2.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+75,redONE,Canada,North America,prepaid,2.17,2.17,0.5,video_call=0.41/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+76,redONE,Canada,North America,postpaid,2.17,2.17,0.5,video_call=0.41/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+77,redONE,Cape Verde Islands,Africa,prepaid,2.17,2.17,0.5,video_call=1.8/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+78,redONE,Cape Verde Islands,Africa,postpaid,2.17,2.17,0.5,video_call=1.8/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+79,redONE,Cayman Islands,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+80,redONE,Cayman Islands,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+81,redONE,Central African Republic,Africa,prepaid,3.79,3.79,0.5,video_call=3.99/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+82,redONE,Central African Republic,Africa,postpaid,3.79,3.79,0.5,video_call=3.99/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+83,redONE,Chad,Africa,prepaid,2.17,2.17,0.5,video_call=2.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+84,redONE,Chad,Africa,postpaid,2.17,2.17,0.5,video_call=2.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+85,redONE,Chile,South America,prepaid,2.17,2.17,0.5,video_call=0.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+86,redONE,Chile,South America,postpaid,2.17,2.17,0.5,video_call=0.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+87,redONE,China,East Asia,prepaid,0.2,0.2,0.5,video_call=0.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+88,redONE,China,East Asia,postpaid,0.2,0.2,0.5,video_call=0.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+89,redONE,Colombia,South America,prepaid,2.17,2.17,0.5,video_call=0.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+90,redONE,Colombia,South America,postpaid,2.17,2.17,0.5,video_call=0.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+91,redONE,Comoros,Africa,prepaid,2.17,2.17,0.5,video_call=3.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+92,redONE,Comoros,Africa,postpaid,2.17,2.17,0.5,video_call=3.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+93,redONE,Cook Islands,Oceania,prepaid,3.79,3.79,0.5,video_call=12.7/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+94,redONE,Cook Islands,Oceania,postpaid,3.79,3.79,0.5,video_call=12.7/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+95,redONE,Costa Rica,Central America,prepaid,2.17,2.17,0.5,video_call=0.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+96,redONE,Costa Rica,Central America,postpaid,2.17,2.17,0.5,video_call=0.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+97,redONE,Croatia,Europe,prepaid,2.17,2.17,0.5,video_call=5.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+98,redONE,Croatia,Europe,postpaid,2.17,2.17,0.5,video_call=5.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+99,redONE,Cuba,Caribbean,prepaid,3.79,3.79,0.5,video_call=4.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+100,redONE,Cuba,Caribbean,postpaid,3.79,3.79,0.5,video_call=4.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+101,redONE,Cyprus,Middle East,prepaid,2.17,2.17,0.5,video_call=0.48/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+102,redONE,Cyprus,Middle East,postpaid,2.17,2.17,0.5,video_call=0.48/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+103,redONE,Czech Republic,Europe,prepaid,2.17,2.17,0.5,video_call=0.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+104,redONE,Czech Republic,Europe,postpaid,2.17,2.17,0.5,video_call=0.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+105,redONE,Dem. Rep. of Congo,Africa,prepaid,2.17,2.17,0.5,video_call=5.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+106,redONE,Dem. Rep. of Congo,Africa,postpaid,2.17,2.17,0.5,video_call=5.05/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+107,redONE,Dem. Rep. of Congo (Zaire),Africa,prepaid,2.17,2.17,0.5,video_call=2.84/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+108,redONE,Dem. Rep. of Congo (Zaire),Africa,postpaid,2.17,2.17,0.5,video_call=2.84/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+109,redONE,Denmark,Europe,prepaid,2.17,2.17,0.5,video_call=1.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+110,redONE,Denmark,Europe,postpaid,2.17,2.17,0.5,video_call=1.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+111,redONE,Diego Garcia,Other,prepaid,2.17,2.17,0.5,video_call=9.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+112,redONE,Diego Garcia,Other,postpaid,2.17,2.17,0.5,video_call=9.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+113,redONE,Djibouti,Africa,prepaid,2.17,2.17,0.5,video_call=4.11/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+114,redONE,Djibouti,Africa,postpaid,2.17,2.17,0.5,video_call=4.11/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+115,redONE,Dominica,Caribbean,prepaid,2.91,2.74,0.5,video_call=2.91/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+116,redONE,Dominica,Caribbean,postpaid,2.91,2.74,0.5,video_call=2.91/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+117,redONE,Dominican Republic,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+118,redONE,Dominican Republic,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+119,redONE,Ecuador,South America,prepaid,2.17,2.17,0.5,video_call=0.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+120,redONE,Ecuador,South America,postpaid,2.17,2.17,0.5,video_call=0.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+121,redONE,Egypt,Africa,prepaid,2.17,2.17,0.5,video_call=0.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+122,redONE,Egypt,Africa,postpaid,2.17,2.17,0.5,video_call=0.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+123,redONE,El Salvador,Central America,prepaid,2.17,2.17,0.5,video_call=1.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+124,redONE,El Salvador,Central America,postpaid,2.17,2.17,0.5,video_call=1.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+125,redONE,Equatorial Guinea,Africa,prepaid,2.17,2.17,0.5,video_call=2.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+126,redONE,Equatorial Guinea,Africa,postpaid,2.17,2.17,0.5,video_call=2.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+127,redONE,Eritrea,Africa,prepaid,2.17,2.17,0.5,video_call=3.22/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+128,redONE,Eritrea,Africa,postpaid,2.17,2.17,0.5,video_call=3.22/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+129,redONE,Estonia,Europe,prepaid,2.17,2.17,0.5,video_call=2.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+130,redONE,Estonia,Europe,postpaid,2.17,2.17,0.5,video_call=2.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+131,redONE,Ethiopia,Africa,prepaid,2.17,2.17,0.5,video_call=1.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+132,redONE,Ethiopia,Africa,postpaid,2.17,2.17,0.5,video_call=1.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+133,redONE,Falkland Islands,Europe,prepaid,11.17,11.17,0.5,video_call=10.22/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+134,redONE,Falkland Islands,Europe,postpaid,11.17,11.17,0.5,video_call=10.22/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+135,redONE,Faroe Islands,Europe,prepaid,2.17,2.17,0.5,video_call=0.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+136,redONE,Faroe Islands,Europe,postpaid,2.17,2.17,0.5,video_call=0.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+137,redONE,Fiji,Oceania,prepaid,2.17,2.17,0.5,video_call=1.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+138,redONE,Fiji,Oceania,postpaid,2.17,2.17,0.5,video_call=1.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+139,redONE,Finland,Europe,prepaid,2.17,2.17,0.5,video_call=17.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+140,redONE,Finland,Europe,postpaid,2.17,2.17,0.5,video_call=17.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+141,redONE,France,Europe,prepaid,0.79,0.16,0.5,video_call=1.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+142,redONE,France,Europe,postpaid,0.79,0.16,0.5,video_call=1.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+143,redONE,French Guyana,South America,prepaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+144,redONE,French Guyana,South America,postpaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+145,redONE,French Polynesia,Oceania,prepaid,2.17,2.17,0.5,video_call=1.72/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+146,redONE,French Polynesia,Oceania,postpaid,2.17,2.17,0.5,video_call=1.72/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+147,redONE,Gabon,Africa,prepaid,2.17,2.17,0.5,video_call=2.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+148,redONE,Gabon,Africa,postpaid,2.17,2.17,0.5,video_call=2.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+149,redONE,Gambia,Africa,prepaid,2.17,2.17,0.5,video_call=4.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+150,redONE,Gambia,Africa,postpaid,2.17,2.17,0.5,video_call=4.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+151,redONE,Georgia,Caucasus,prepaid,2.17,2.17,0.5,video_call=2.0/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+152,redONE,Georgia,Caucasus,postpaid,2.17,2.17,0.5,video_call=2.0/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+153,redONE,Germany,Europe,prepaid,2.02,4.85,0.5,video_call=2.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+154,redONE,Germany,Europe,postpaid,2.02,4.85,0.5,video_call=2.02/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+155,redONE,Ghana,Africa,prepaid,2.17,2.17,0.5,video_call=1.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+156,redONE,Ghana,Africa,postpaid,2.17,2.17,0.5,video_call=1.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+157,redONE,Gibraltar,Europe,prepaid,2.17,2.17,0.5,video_call=1.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+158,redONE,Gibraltar,Europe,postpaid,2.17,2.17,0.5,video_call=1.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+159,redONE,Greece,Europe,prepaid,2.17,0.18,0.5,video_call=0.41/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+160,redONE,Greece,Europe,postpaid,2.17,0.18,0.5,video_call=0.41/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+161,redONE,Greenland,Europe,prepaid,2.17,2.17,0.5,video_call=0.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+162,redONE,Greenland,Europe,postpaid,2.17,2.17,0.5,video_call=0.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+163,redONE,Grenada,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+164,redONE,Grenada,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+165,redONE,Guadeloupe,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+166,redONE,Guadeloupe,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+167,redONE,Guam,Oceania,prepaid,2.17,2.17,0.5,video_call=0.72/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+168,redONE,Guam,Oceania,postpaid,2.17,2.17,0.5,video_call=0.72/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+169,redONE,Guatemala,Central America,prepaid,2.17,2.17,0.5,video_call=0.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+170,redONE,Guatemala,Central America,postpaid,2.17,2.17,0.5,video_call=0.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+171,redONE,Guinea,Oceania,prepaid,2.17,2.17,0.5,video_call=2.58/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+172,redONE,Guinea,Oceania,postpaid,2.17,2.17,0.5,video_call=2.58/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+173,redONE,Guinea Bissau,Other,prepaid,3.79,3.79,0.5,video_call=4.19/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+174,redONE,Guinea Bissau,Other,postpaid,3.79,3.79,0.5,video_call=4.19/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+175,redONE,Guyana,South America,prepaid,2.17,2.17,0.5,video_call=3.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+176,redONE,Guyana,South America,postpaid,2.17,2.17,0.5,video_call=3.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+177,redONE,Haiti Republic,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+178,redONE,Haiti Republic,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+179,redONE,Hawaii,North America,prepaid,0.68,0.68,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+180,redONE,Hawaii,North America,postpaid,0.68,0.68,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+181,redONE,Honduras,Central America,prepaid,2.17,2.17,0.5,video_call=1.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+182,redONE,Honduras,Central America,postpaid,2.17,2.17,0.5,video_call=1.2/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+183,redONE,Hong Kong,East Asia,prepaid,0.23,0.23,0.5,video_call=0.23/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+184,redONE,Hong Kong,East Asia,postpaid,0.23,0.23,0.5,video_call=0.23/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+185,redONE,Hungary,Europe,prepaid,2.17,2.17,0.5,video_call=0.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+186,redONE,Hungary,Europe,postpaid,2.17,2.17,0.5,video_call=0.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+187,redONE,Iceland,Europe,prepaid,2.17,2.17,0.5,video_call=0.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+188,redONE,Iceland,Europe,postpaid,2.17,2.17,0.5,video_call=0.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+189,redONE,India,South Asia,prepaid,0.24,0.24,0.5,video_call=0.24/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+190,redONE,India,South Asia,postpaid,0.24,0.24,0.5,video_call=0.24/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+191,redONE,Indonesia,Southeast Asia,prepaid,0.22,0.22,0.5,video_call=0.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+192,redONE,Indonesia,Southeast Asia,postpaid,0.22,0.22,0.5,video_call=0.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+193,redONE,Inmarsat,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+194,redONE,Inmarsat,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+195,redONE,Iran,Middle East,prepaid,1.22,1.22,0.5,video_call=1.21/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+196,redONE,Iran,Middle East,postpaid,1.22,1.22,0.5,video_call=1.21/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+197,redONE,Iraq,Middle East,prepaid,1.22,1.22,0.5,video_call=1.32/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+198,redONE,Iraq,Middle East,postpaid,1.22,1.22,0.5,video_call=1.32/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+199,redONE,Ireland,Europe,prepaid,2.17,2.17,0.5,video_call=0.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+200,redONE,Ireland,Europe,postpaid,2.17,2.17,0.5,video_call=0.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+201,redONE,Isle of Man,Europe,prepaid,0.88,0.15,0.5,video_call=4.8/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+202,redONE,Isle of Man,Europe,postpaid,0.88,0.15,0.5,video_call=4.8/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+203,redONE,Israel,Middle East,prepaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+204,redONE,Israel,Middle East,postpaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+205,redONE,Italy,Europe,prepaid,0.18,2.28,0.5,video_call=1.56/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+206,redONE,Italy,Europe,postpaid,0.18,2.28,0.5,video_call=1.56/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+207,redONE,Ivory Coast,Africa,prepaid,2.17,2.17,0.5,video_call=2.73/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+208,redONE,Ivory Coast,Africa,postpaid,2.17,2.17,0.5,video_call=2.73/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+209,redONE,Jamaica,Caribbean,prepaid,2.61,1.59,0.5,video_call=2.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+210,redONE,Jamaica,Caribbean,postpaid,2.61,1.59,0.5,video_call=2.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+211,redONE,Japan,East Asia,prepaid,1.79,1.79,0.5,video_call=0.69/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+212,redONE,Japan,East Asia,postpaid,1.79,1.79,0.5,video_call=0.69/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+213,redONE,Jordan,Middle East,prepaid,1.22,1.22,0.5,video_call=1.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+214,redONE,Jordan,Middle East,postpaid,1.22,1.22,0.5,video_call=1.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+215,redONE,Kazakhstan,Central Asia,prepaid,2.05,2.05,0.5,video_call=1.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+216,redONE,Kazakhstan,Central Asia,postpaid,2.05,2.05,0.5,video_call=1.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+217,redONE,Kenya,Africa,prepaid,2.17,2.17,0.5,video_call=0.95/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+218,redONE,Kenya,Africa,postpaid,2.17,2.17,0.5,video_call=0.95/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+219,redONE,Kiribati,Oceania,prepaid,3.79,3.79,0.5,video_call=6.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+220,redONE,Kiribati,Oceania,postpaid,3.79,3.79,0.5,video_call=6.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+221,redONE,Korea South,East Asia,prepaid,0.16,0.16,0.5,video_call=0.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+222,redONE,Korea South,East Asia,postpaid,0.16,0.16,0.5,video_call=0.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+223,redONE,Kuwait,Middle East,prepaid,1.22,1.22,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+224,redONE,Kuwait,Middle East,postpaid,1.22,1.22,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+225,redONE,Kyrgyz Republic,Central Asia,prepaid,2.17,2.17,0.5,video_call=1.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+226,redONE,Kyrgyz Republic,Central Asia,postpaid,2.17,2.17,0.5,video_call=1.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+227,redONE,Laos,Southeast Asia,prepaid,0.5,0.5,0.5,video_call=0.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+228,redONE,Laos,Southeast Asia,postpaid,0.5,0.5,0.5,video_call=0.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+229,redONE,Latvia,Europe,prepaid,2.17,2.17,0.5,video_call=1.95/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+230,redONE,Latvia,Europe,postpaid,2.17,2.17,0.5,video_call=1.95/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+231,redONE,Lebanon,Middle East,prepaid,1.22,1.22,0.5,video_call=1.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+232,redONE,Lebanon,Middle East,postpaid,1.22,1.22,0.5,video_call=1.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+233,redONE,Lesotho,Africa,prepaid,2.17,2.17,0.5,video_call=2.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+234,redONE,Lesotho,Africa,postpaid,2.17,2.17,0.5,video_call=2.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+235,redONE,Liberia,Africa,prepaid,2.17,2.17,0.5,video_call=2.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+236,redONE,Liberia,Africa,postpaid,2.17,2.17,0.5,video_call=2.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+237,redONE,Libya,Africa,prepaid,2.17,2.17,0.5,video_call=3.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+238,redONE,Libya,Africa,postpaid,2.17,2.17,0.5,video_call=3.86/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+239,redONE,Liechtenstein,Europe,prepaid,2.17,2.17,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+240,redONE,Liechtenstein,Europe,postpaid,2.17,2.17,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+241,redONE,Lithuania,Europe,prepaid,2.17,2.17,0.5,video_call=2.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+242,redONE,Lithuania,Europe,postpaid,2.17,2.17,0.5,video_call=2.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+243,redONE,Luxembourg,Europe,prepaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+244,redONE,Luxembourg,Europe,postpaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+245,redONE,Macau,East Asia,prepaid,0.4,0.4,0.5,video_call=0.74/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+246,redONE,Macau,East Asia,postpaid,0.4,0.4,0.5,video_call=0.74/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+247,redONE,Macedonia,Europe,prepaid,2.17,2.17,0.5,video_call=3.67/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+248,redONE,Macedonia,Europe,postpaid,2.17,2.17,0.5,video_call=3.67/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+249,redONE,Madagascar,Africa,prepaid,4.57,2.37,0.5,video_call=4.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+250,redONE,Madagascar,Africa,postpaid,4.57,2.37,0.5,video_call=4.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+251,redONE,Malawi,Africa,prepaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+252,redONE,Malawi,Africa,postpaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+253,redONE,Maldives,South Asia,prepaid,2.05,2.05,0.5,video_call=5.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+254,redONE,Maldives,South Asia,postpaid,2.05,2.05,0.5,video_call=5.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+255,redONE,Mali,Africa,prepaid,2.17,2.17,0.5,video_call=2.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+256,redONE,Mali,Africa,postpaid,2.17,2.17,0.5,video_call=2.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+257,redONE,Malta,Europe,prepaid,2.17,2.17,0.5,video_call=2.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+258,redONE,Malta,Europe,postpaid,2.17,2.17,0.5,video_call=2.16/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+259,redONE,Mariana Islands,Oceania,prepaid,0.78,0.78,0.5,video_call=0.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+260,redONE,Mariana Islands,Oceania,postpaid,0.78,0.78,0.5,video_call=0.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+261,redONE,Marshall Islands,Oceania,prepaid,3.79,3.79,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+262,redONE,Marshall Islands,Oceania,postpaid,3.79,3.79,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+263,redONE,Martinique,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+264,redONE,Martinique,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+265,redONE,Mauritania,Africa,prepaid,2.17,2.17,0.5,video_call=3.59/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+266,redONE,Mauritania,Africa,postpaid,2.17,2.17,0.5,video_call=3.59/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+267,redONE,Mauritius Island,Africa,prepaid,1.22,1.22,0.5,video_call=0.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+268,redONE,Mauritius Island,Africa,postpaid,1.22,1.22,0.5,video_call=0.77/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+269,redONE,Mayotte,Africa,prepaid,2.17,2.17,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+270,redONE,Mayotte,Africa,postpaid,2.17,2.17,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+271,redONE,Mexico,North America,prepaid,2.17,2.17,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+272,redONE,Mexico,North America,postpaid,2.17,2.17,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+273,redONE,Micronesia,Oceania,prepaid,2.17,2.17,0.5,video_call=3.14/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+274,redONE,Micronesia,Oceania,postpaid,2.17,2.17,0.5,video_call=3.14/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+275,redONE,Moldova,Europe,prepaid,2.17,2.17,0.5,video_call=1.51/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+276,redONE,Moldova,Europe,postpaid,2.17,2.17,0.5,video_call=1.51/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+277,redONE,Monaco,Europe,prepaid,2.17,2.17,0.5,video_call=0.48/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+278,redONE,Monaco,Europe,postpaid,2.17,2.17,0.5,video_call=0.48/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+279,redONE,Mongolia,East Asia,prepaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+280,redONE,Mongolia,East Asia,postpaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+281,redONE,Montenegro,Europe,prepaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+282,redONE,Montenegro,Europe,postpaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+283,redONE,Montserrat,Caribbean,prepaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+284,redONE,Montserrat,Caribbean,postpaid,2.17,2.17,0.5,video_call=0.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+285,redONE,Morroco,Other,prepaid,2.17,2.17,0.5,video_call=4.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+286,redONE,Morroco,Other,postpaid,2.17,2.17,0.5,video_call=4.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+287,redONE,Mozambique,Africa,prepaid,2.17,2.17,0.5,video_call=2.18/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+288,redONE,Mozambique,Africa,postpaid,2.17,2.17,0.5,video_call=2.18/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+289,redONE,Myanmar (Burma),Southeast Asia,prepaid,1.55,1.23,0.5,video_call=1.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+290,redONE,Myanmar (Burma),Southeast Asia,postpaid,1.55,1.23,0.5,video_call=1.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+291,redONE,Namibia,Africa,prepaid,2.17,2.17,0.5,video_call=0.66/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+292,redONE,Namibia,Africa,postpaid,2.17,2.17,0.5,video_call=0.66/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+293,redONE,Nauru,Oceania,prepaid,9.04,20.04,0.5,video_call=9.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+294,redONE,Nauru,Oceania,postpaid,9.04,20.04,0.5,video_call=9.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+295,redONE,Nepal,South Asia,prepaid,0.98,0.96,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+296,redONE,Nepal,South Asia,postpaid,0.98,0.96,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+297,redONE,Netherlands,Europe,prepaid,2.17,2.17,0.5,video_call=2.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+298,redONE,Netherlands,Europe,postpaid,2.17,2.17,0.5,video_call=2.09/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+299,redONE,Netherlands Antilles,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.43/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+300,redONE,Netherlands Antilles,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.43/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+301,redONE,New Caledonia,Oceania,prepaid,2.17,2.17,0.5,video_call=2.37/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+302,redONE,New Caledonia,Oceania,postpaid,2.17,2.17,0.5,video_call=2.37/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+303,redONE,New Zealand,Oceania,prepaid,0.26,0.09,0.5,video_call=0.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+304,redONE,New Zealand,Oceania,postpaid,0.26,0.09,0.5,video_call=0.26/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+305,redONE,Nicaragua,Central America,prepaid,8.17,2.17,0.5,video_call=1.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+306,redONE,Nicaragua,Central America,postpaid,8.17,2.17,0.5,video_call=1.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+307,redONE,Niger,Africa,prepaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+308,redONE,Niger,Africa,postpaid,2.17,2.17,0.5,video_call=1.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+309,redONE,Nigeria,Africa,prepaid,1.15,1.15,0.5,video_call=0.99/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+310,redONE,Nigeria,Africa,postpaid,1.15,1.15,0.5,video_call=0.99/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+311,redONE,Niue Island,Oceania,prepaid,0.49,3.79,0.5,video_call=11.83/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+312,redONE,Niue Island,Oceania,postpaid,0.49,3.79,0.5,video_call=11.83/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+313,redONE,Norfolk Island,Oceania,prepaid,6.79,6.79,0.5,video_call=13.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+314,redONE,Norfolk Island,Oceania,postpaid,6.79,6.79,0.5,video_call=13.61/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+315,redONE,North Korea,East Asia,prepaid,4.13,2.31,0.5,video_call=4.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+316,redONE,North Korea,East Asia,postpaid,4.13,2.31,0.5,video_call=4.13/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+317,redONE,Norway,Europe,prepaid,0.18,0.83,0.5,video_call=0.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+318,redONE,Norway,Europe,postpaid,0.18,0.83,0.5,video_call=0.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+319,redONE,Oman,Middle East,prepaid,1.22,1.22,0.5,video_call=1.1/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+320,redONE,Oman,Middle East,postpaid,1.22,1.22,0.5,video_call=1.1/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+321,redONE,Pakistan,South Asia,prepaid,0.4,0.4,0.5,video_call=0.37/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+322,redONE,Pakistan,South Asia,postpaid,0.4,0.4,0.5,video_call=0.37/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+323,redONE,Palau,Oceania,prepaid,2.17,2.17,0.5,video_call=2.87/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+324,redONE,Palau,Oceania,postpaid,2.17,2.17,0.5,video_call=2.87/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+325,redONE,Palestine,Middle East,prepaid,2.17,2.17,0.5,video_call=1.23/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+326,redONE,Palestine,Middle East,postpaid,2.17,2.17,0.5,video_call=1.23/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+327,redONE,Panama,Central America,prepaid,2.17,2.17,0.5,video_call=0.54/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+328,redONE,Panama,Central America,postpaid,2.17,2.17,0.5,video_call=0.54/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+329,redONE,Papua New Guinea,Oceania,prepaid,2.17,2.17,0.5,video_call=6.38/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+330,redONE,Papua New Guinea,Oceania,postpaid,2.17,2.17,0.5,video_call=6.38/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+331,redONE,Paraguay,South America,prepaid,2.17,2.17,0.5,video_call=0.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+332,redONE,Paraguay,South America,postpaid,2.17,2.17,0.5,video_call=0.63/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+333,redONE,Peru,South America,prepaid,2.17,2.17,0.5,video_call=1.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+334,redONE,Peru,South America,postpaid,2.17,2.17,0.5,video_call=1.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+335,redONE,Philippines,Southeast Asia,prepaid,0.5,0.5,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+336,redONE,Philippines,Southeast Asia,postpaid,0.5,0.5,0.5,video_call=0.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+337,redONE,Poland,Europe,prepaid,2.17,2.17,0.5,video_call=0.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+338,redONE,Poland,Europe,postpaid,2.17,2.17,0.5,video_call=0.82/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+339,redONE,Portugal,Europe,prepaid,2.17,2.17,0.5,video_call=3.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+340,redONE,Portugal,Europe,postpaid,2.17,2.17,0.5,video_call=3.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+341,redONE,Portugal - Azores,Europe,prepaid,0.27,6.65,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+342,redONE,Portugal - Azores,Europe,postpaid,0.27,6.65,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+343,redONE,Portugal - Madeira,Europe,prepaid,0.27,6.65,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+344,redONE,Portugal - Madeira,Europe,postpaid,0.27,6.65,0.5,video_call=0.27/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+345,redONE,Puerto Rico,Caribbean,prepaid,0.94,0.94,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+346,redONE,Puerto Rico,Caribbean,postpaid,0.94,0.94,0.5,video_call=0.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+347,redONE,Qatar,Middle East,prepaid,1.22,1.22,0.5,video_call=1.25/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+348,redONE,Qatar,Middle East,postpaid,1.22,1.22,0.5,video_call=1.25/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+349,redONE,Reunion Islands,Africa,prepaid,2.17,2.17,0.5,video_call=2.65/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+350,redONE,Reunion Islands,Africa,postpaid,2.17,2.17,0.5,video_call=2.65/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+351,redONE,Romania,Europe,prepaid,2.17,2.17,0.5,video_call=0.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+352,redONE,Romania,Europe,postpaid,2.17,2.17,0.5,video_call=0.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+353,redONE,Russia,Europe,prepaid,2.17,2.17,0.5,video_call=0.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+354,redONE,Russia,Europe,postpaid,2.17,2.17,0.5,video_call=0.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+355,redONE,Rwanda,Africa,prepaid,2.17,2.17,0.5,video_call=1.65/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+356,redONE,Rwanda,Africa,postpaid,2.17,2.17,0.5,video_call=1.65/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+357,redONE,Samoa (USA),Oceania,prepaid,1.55,0.16,0.5,video_call=1.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+358,redONE,Samoa (USA),Oceania,postpaid,1.55,0.16,0.5,video_call=1.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+359,redONE,Samoa (Western),Oceania,prepaid,6.53,6.41,0.5,video_call=6.53/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+360,redONE,Samoa (Western),Oceania,postpaid,6.53,6.41,0.5,video_call=6.53/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+361,redONE,San Marino,Europe,prepaid,2.17,2.17,0.5,video_call=0.57/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+362,redONE,San Marino,Europe,postpaid,2.17,2.17,0.5,video_call=0.57/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+363,redONE,Sao Tome & Principe,Other,prepaid,2.17,2.17,0.5,video_call=0.57/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+364,redONE,Sao Tome & Principe,Other,postpaid,2.17,2.17,0.5,video_call=0.57/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+365,redONE,Satellite - Emsat,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+366,redONE,Satellite - Emsat,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+367,redONE,Satellite - Iridium,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+368,redONE,Satellite - Iridium,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+369,redONE,Satellite - Thuraya,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+370,redONE,Satellite - Thuraya,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+371,redONE,Satellite - UPTN,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+372,redONE,Satellite - UPTN,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+373,redONE,Satellite 881,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+374,redONE,Satellite 881,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+375,redONE,Satellite 882,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+376,redONE,Satellite 882,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+377,redONE,Satellite 883,Other,prepaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+378,redONE,Satellite 883,Other,postpaid,,,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+379,redONE,Saudi Arabia,Middle East,prepaid,0.88,0.88,0.5,video_call=0.84/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+380,redONE,Saudi Arabia,Middle East,postpaid,0.88,0.88,0.5,video_call=0.84/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+381,redONE,Senegal,Africa,prepaid,1.22,1.22,0.5,video_call=3.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+382,redONE,Senegal,Africa,postpaid,1.22,1.22,0.5,video_call=3.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+383,redONE,Serbia,Europe,prepaid,2.17,2.17,0.5,video_call=2.32/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+384,redONE,Serbia,Europe,postpaid,2.17,2.17,0.5,video_call=2.32/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+385,redONE,Seychelles,Africa,prepaid,2.17,2.17,0.5,video_call=0.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+386,redONE,Seychelles,Africa,postpaid,2.17,2.17,0.5,video_call=0.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+387,redONE,Sierra Leone,Africa,prepaid,2.17,2.17,0.5,video_call=4.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+388,redONE,Sierra Leone,Africa,postpaid,2.17,2.17,0.5,video_call=4.9/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+389,redONE,Singapore,Southeast Asia,prepaid,0.29,0.29,0.5,video_call=0.29/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+390,redONE,Singapore,Southeast Asia,postpaid,0.29,0.29,0.5,video_call=0.29/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+391,redONE,Slovakia,Europe,prepaid,2.17,2.17,0.5,video_call=0.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+392,redONE,Slovakia,Europe,postpaid,2.17,2.17,0.5,video_call=0.55/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+393,redONE,Slovenia,Europe,prepaid,2.17,2.17,0.5,video_call=2.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+394,redONE,Slovenia,Europe,postpaid,2.17,2.17,0.5,video_call=2.28/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+395,redONE,Solomon Islands,Oceania,prepaid,3.79,3.79,0.5,video_call=7.68/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+396,redONE,Solomon Islands,Oceania,postpaid,3.79,3.79,0.5,video_call=7.68/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+397,redONE,Somalia,Africa,prepaid,3.79,3.79,0.5,video_call=2.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+398,redONE,Somalia,Africa,postpaid,3.79,3.79,0.5,video_call=2.42/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+399,redONE,South Africa,Africa,prepaid,2.17,2.17,0.5,video_call=1.44/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+400,redONE,South Africa,Africa,postpaid,2.17,2.17,0.5,video_call=1.44/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+401,redONE,South Sudan,Africa,prepaid,2.17,2.17,0.5,video_call=3.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+402,redONE,South Sudan,Africa,postpaid,2.17,2.17,0.5,video_call=3.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+403,redONE,Spain,Europe,prepaid,2.17,2.17,0.5,video_call=3.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+404,redONE,Spain,Europe,postpaid,2.17,2.17,0.5,video_call=3.52/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+405,redONE,Sri Lanka,South Asia,prepaid,2.17,2.17,0.5,video_call=1.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+406,redONE,Sri Lanka,South Asia,postpaid,2.17,2.17,0.5,video_call=1.04/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+407,redONE,St Helena,Other,prepaid,2.17,2.17,0.5,video_call=22.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+408,redONE,St Helena,Other,postpaid,2.17,2.17,0.5,video_call=22.78/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+409,redONE,St Maarten,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+410,redONE,St Maarten,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.15/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+411,redONE,St. Kitts and Nevis,Caribbean,prepaid,2.17,2.17,0.5,video_call=2.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+412,redONE,St. Kitts and Nevis,Caribbean,postpaid,2.17,2.17,0.5,video_call=2.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+413,redONE,St. Lucia,Caribbean,prepaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+414,redONE,St. Lucia,Caribbean,postpaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+415,redONE,St. Pierre & Miquelon,Caribbean,prepaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+416,redONE,St. Pierre & Miquelon,Caribbean,postpaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+417,redONE,St. Vincent & Grenadines,Caribbean,prepaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+418,redONE,St. Vincent & Grenadines,Caribbean,postpaid,2.17,2.17,0.5,video_call=3.96/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+419,redONE,Sudan,Africa,prepaid,2.17,2.17,0.5,video_call=2.11/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+420,redONE,Sudan,Africa,postpaid,2.17,2.17,0.5,video_call=2.11/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+421,redONE,Suriname,South America,prepaid,2.17,2.17,0.5,video_call=2.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+422,redONE,Suriname,South America,postpaid,2.17,2.17,0.5,video_call=2.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+423,redONE,Swaziland,Africa,prepaid,2.17,2.17,0.5,video_call=2.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+424,redONE,Swaziland,Africa,postpaid,2.17,2.17,0.5,video_call=2.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+425,redONE,Sweden,Europe,prepaid,2.05,2.05,0.5,video_call=1.93/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+426,redONE,Sweden,Europe,postpaid,2.05,2.05,0.5,video_call=1.93/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+427,redONE,Switzerland,Europe,prepaid,2.17,2.17,0.5,video_call=3.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+428,redONE,Switzerland,Europe,postpaid,2.17,2.17,0.5,video_call=3.5/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+429,redONE,Syria,Middle East,prepaid,2.17,2.17,0.5,video_call=2.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+430,redONE,Syria,Middle East,postpaid,2.17,2.17,0.5,video_call=2.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+431,redONE,Taiwan,East Asia,prepaid,0.68,0.13,0.5,video_call=0.68/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+432,redONE,Taiwan,East Asia,postpaid,0.68,0.13,0.5,video_call=0.68/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+433,redONE,Tajikistan,Central Asia,prepaid,2.17,2.17,0.5,video_call=1.51/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+434,redONE,Tajikistan,Central Asia,postpaid,2.17,2.17,0.5,video_call=1.51/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+435,redONE,Tanzania,Africa,prepaid,2.17,2.17,0.5,video_call=3.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+436,redONE,Tanzania,Africa,postpaid,2.17,2.17,0.5,video_call=3.08/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+437,redONE,Tatarstan,Other,prepaid,2.17,2.17,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+438,redONE,Tatarstan,Other,postpaid,2.17,2.17,0.5,mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+439,redONE,Thailand,Southeast Asia,prepaid,0.45,0.47,0.5,video_call=0.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+440,redONE,Thailand,Southeast Asia,postpaid,0.45,0.47,0.5,video_call=0.45/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+441,redONE,Timor Leste,Southeast Asia,prepaid,3.95,3.95,0.5,video_call=1.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+442,redONE,Timor Leste,Southeast Asia,postpaid,3.95,3.95,0.5,video_call=1.47/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+443,redONE,Togo,Africa,prepaid,2.17,2.17,0.5,video_call=2.74/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+444,redONE,Togo,Africa,postpaid,2.17,2.17,0.5,video_call=2.74/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+445,redONE,Tokelau,Oceania,prepaid,5.67,5.67,0.5,video_call=15.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+446,redONE,Tokelau,Oceania,postpaid,5.67,5.67,0.5,video_call=15.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+447,redONE,Tonga,Oceania,prepaid,2.17,2.17,0.5,video_call=11.97/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+448,redONE,Tonga,Oceania,postpaid,2.17,2.17,0.5,video_call=11.97/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+449,redONE,Trinidad & Tobago,Caribbean,prepaid,2.17,2.17,0.5,video_call=11.97/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+450,redONE,Trinidad & Tobago,Caribbean,postpaid,2.17,2.17,0.5,video_call=11.97/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+451,redONE,Tunisia,Africa,prepaid,2.17,2.17,0.5,video_call=2.94/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+452,redONE,Tunisia,Africa,postpaid,2.17,2.17,0.5,video_call=2.94/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+453,redONE,Turkey,Middle East,prepaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+454,redONE,Turkey,Middle East,postpaid,2.17,2.17,0.5,video_call=1.31/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+455,redONE,Turkmenistan,Central Asia,prepaid,2.17,2.17,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+456,redONE,Turkmenistan,Central Asia,postpaid,2.17,2.17,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+457,redONE,Turks & Caicos Islands,Caribbean,prepaid,2.17,2.17,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+458,redONE,Turks & Caicos Islands,Caribbean,postpaid,2.17,2.17,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+459,redONE,Tuvalu,Oceania,prepaid,13.35,15.25,0.5,video_call=13.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+460,redONE,Tuvalu,Oceania,postpaid,13.35,15.25,0.5,video_call=13.35/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+461,redONE,Uganda,Africa,prepaid,2.17,2.17,0.5,video_call=1.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+462,redONE,Uganda,Africa,postpaid,2.17,2.17,0.5,video_call=1.98/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+463,redONE,Ukraine,Europe,prepaid,2.17,2.17,0.5,video_call=1.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+464,redONE,Ukraine,Europe,postpaid,2.17,2.17,0.5,video_call=1.6/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+465,redONE,United Arab Emirates,Middle East,prepaid,1.06,1.03,0.5,video_call=1.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+466,redONE,United Arab Emirates,Middle East,postpaid,1.06,1.03,0.5,video_call=1.06/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+467,redONE,United Kingdom,Europe,prepaid,2.92,1.48,0.5,video_call=2.92/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+468,redONE,United Kingdom,Europe,postpaid,2.92,1.48,0.5,video_call=2.92/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+469,redONE,United States of America,North America,prepaid,0.18,0.12,0.5,video_call=0.18/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+470,redONE,United States of America,North America,postpaid,0.18,0.12,0.5,video_call=0.18/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+471,redONE,Uruguay,South America,prepaid,2.17,2.17,0.5,video_call=0.92/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+472,redONE,Uruguay,South America,postpaid,2.17,2.17,0.5,video_call=0.92/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+473,redONE,Uzbekistan,Central Asia,prepaid,1.22,1.22,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+474,redONE,Uzbekistan,Central Asia,postpaid,1.22,1.22,0.5,video_call=1.4/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+475,redONE,Vanuatu/New Hebrides,Oceania,prepaid,2.17,2.17,0.5,video_call=11.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+476,redONE,Vanuatu/New Hebrides,Oceania,postpaid,2.17,2.17,0.5,video_call=11.07/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+477,redONE,Venezuela,South America,prepaid,2.17,2.17,0.5,video_call=0.54/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+478,redONE,Venezuela,South America,postpaid,2.17,2.17,0.5,video_call=0.54/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+479,redONE,Vietnam,Southeast Asia,prepaid,2.17,2.17,0.5,video_call=0.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+480,redONE,Vietnam,Southeast Asia,postpaid,2.17,2.17,0.5,video_call=0.49/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+481,redONE,Virgin Island (UK),Caribbean,prepaid,2.79,1.02,0.5,video_call=2.79/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+482,redONE,Virgin Island (UK),Caribbean,postpaid,2.79,1.02,0.5,video_call=2.79/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+483,redONE,Virgin Island (US),Caribbean,prepaid,1.34,0.09,0.5,video_call=1.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+484,redONE,Virgin Island (US),Caribbean,postpaid,1.34,0.09,0.5,video_call=1.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+485,redONE,Wallis & Futuna Islands,Oceania,prepaid,1.34,0.09,0.5,video_call=1.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+486,redONE,Wallis & Futuna Islands,Oceania,postpaid,1.34,0.09,0.5,video_call=1.34/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+487,redONE,Yemen (Arab Republic),Middle East,prepaid,1.85,0.96,0.5,video_call=1.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+488,redONE,Yemen (Arab Republic),Middle East,postpaid,1.85,0.96,0.5,video_call=1.85/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+489,redONE,Yugoslavia,Other,prepaid,2.75,2.75,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+490,redONE,Yugoslavia,Other,postpaid,2.75,2.75,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+491,redONE,Zambia,Africa,prepaid,2.17,2.17,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+492,redONE,Zambia,Africa,postpaid,2.17,2.17,0.5,video_call=2.75/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+493,redONE,Zimbabwe,Africa,prepaid,2.17,2.17,0.5,video_call=2.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32
+494,redONE,Zimbabwe,Africa,postpaid,2.17,2.17,0.5,video_call=2.88/min; mms=2.0/mms,https://www.redonemobile.com.my/en/idd/,2026-05-18T00:40:32

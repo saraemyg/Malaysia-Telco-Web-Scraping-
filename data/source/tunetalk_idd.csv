@@ -1,0 +1,483 @@
+record_id,brand,country,region,plan_type,rate_per_min_myr,rate_fixed_per_min_myr,rate_per_sms_myr,country_code,access_code,plan_specific,notes,source_url,scraped_at
+1,Tune Talk,Afghanistan,South Asia,prepaid,0.75,2.28,,93,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+2,Tune Talk,Afghanistan,South Asia,postpaid,0.75,2.28,,93,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+3,Tune Talk,Alaska,Other,prepaid,0.58,0.58,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+4,Tune Talk,Alaska,Other,postpaid,0.58,0.58,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+5,Tune Talk,Albania,Other,prepaid,2.88,2.28,,355,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+6,Tune Talk,Albania,Other,postpaid,2.88,2.28,,355,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+7,Tune Talk,Algeria,Africa,prepaid,3.88,2.28,,213,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+8,Tune Talk,Algeria,Africa,postpaid,3.88,2.28,,213,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+9,Tune Talk,American Samoa,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+10,Tune Talk,American Samoa,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+11,Tune Talk,Andorra,Other,prepaid,0.28,2.28,,376,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+12,Tune Talk,Andorra,Other,postpaid,0.28,2.28,,376,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+13,Tune Talk,Angola,Other,prepaid,1.25,2.28,,244,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+14,Tune Talk,Angola,Other,postpaid,1.25,2.28,,244,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+15,Tune Talk,Anguilla,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+16,Tune Talk,Anguilla,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+17,Tune Talk,Antigua & Barbuda,Other,prepaid,1.25,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+18,Tune Talk,Antigua & Barbuda,Other,postpaid,1.25,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+19,Tune Talk,Argentina,South America,prepaid,0.75,2.28,,54,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+20,Tune Talk,Argentina,South America,postpaid,0.75,2.28,,54,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+21,Tune Talk,Armenia,Other,prepaid,0.75,2.28,,374,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+22,Tune Talk,Armenia,Other,postpaid,0.75,2.28,,374,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+23,Tune Talk,Aruba,Other,prepaid,0.28,2.28,,297,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+24,Tune Talk,Aruba,Other,postpaid,0.28,2.28,,297,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+25,Tune Talk,Ascension Island,Other,prepaid,0.48,5.88,,247,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+26,Tune Talk,Ascension Island,Other,postpaid,0.48,5.88,,247,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+27,Tune Talk,Australia,Oceania,prepaid,0.88,0.18,,61,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+28,Tune Talk,Australia,Oceania,postpaid,0.88,0.18,,61,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+29,Tune Talk,Australian Territories,Oceania,prepaid,15.0,15.0,,672,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+30,Tune Talk,Australian Territories,Oceania,postpaid,15.0,15.0,,672,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+31,Tune Talk,Austria,Europe,prepaid,0.75,2.28,,43,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+32,Tune Talk,Austria,Europe,postpaid,0.75,2.28,,43,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+33,Tune Talk,Azerbaijan,Other,prepaid,0.75,2.28,,994,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+34,Tune Talk,Azerbaijan,Other,postpaid,0.75,2.28,,994,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+35,Tune Talk,Azores,Other,prepaid,0.48,0.48,,351,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+36,Tune Talk,Azores,Other,postpaid,0.48,0.48,,351,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+37,Tune Talk,Bahamas,Other,prepaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+38,Tune Talk,Bahamas,Other,postpaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+39,Tune Talk,Bahrain,Middle East,prepaid,0.75,2.28,,973,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+40,Tune Talk,Bahrain,Middle East,postpaid,0.75,2.28,,973,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+41,Tune Talk,Bangladesh,South Asia,prepaid,0.28,0.12,,880,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+42,Tune Talk,Bangladesh,South Asia,postpaid,0.28,0.12,,880,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+43,Tune Talk,Barbados,Other,prepaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+44,Tune Talk,Barbados,Other,postpaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+45,Tune Talk,Belarus,Other,prepaid,0.75,5.98,,375,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+46,Tune Talk,Belarus,Other,postpaid,0.75,5.98,,375,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+47,Tune Talk,Belgium,Europe,prepaid,0.75,3.88,,32,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+48,Tune Talk,Belgium,Europe,postpaid,0.75,3.88,,32,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+49,Tune Talk,Belize,Other,prepaid,0.35,2.28,,501,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+50,Tune Talk,Belize,Other,postpaid,0.35,2.28,,501,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+51,Tune Talk,Benin,Other,prepaid,0.35,2.28,,229,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+52,Tune Talk,Benin,Other,postpaid,0.35,2.28,,229,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+53,Tune Talk,Bermuda,Other,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+54,Tune Talk,Bermuda,Other,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+55,Tune Talk,Bhutan,Other,prepaid,0.75,2.28,,975,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+56,Tune Talk,Bhutan,Other,postpaid,0.75,2.28,,975,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+57,Tune Talk,Bolivia,Other,prepaid,0.75,2.28,,591,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+58,Tune Talk,Bolivia,Other,postpaid,0.75,2.28,,591,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+59,Tune Talk,Bosnia Herzegovina,Other,prepaid,3.88,2.28,,387,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+60,Tune Talk,Bosnia Herzegovina,Other,postpaid,3.88,2.28,,387,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+61,Tune Talk,Botswana,Other,prepaid,0.75,2.28,,267,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+62,Tune Talk,Botswana,Other,postpaid,0.75,2.28,,267,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+63,Tune Talk,Brazil,South America,prepaid,0.75,2.28,,55,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+64,Tune Talk,Brazil,South America,postpaid,0.75,2.28,,55,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+65,Tune Talk,British Virgin Islands,Other,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+66,Tune Talk,British Virgin Islands,Other,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+67,Tune Talk,Brunei,Southeast Asia,prepaid,0.4,0.2,,673,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+68,Tune Talk,Brunei,Southeast Asia,postpaid,0.4,0.2,,673,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+69,Tune Talk,Bulgaria,Europe,prepaid,0.35,2.28,,359,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+70,Tune Talk,Bulgaria,Europe,postpaid,0.35,2.28,,359,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+71,Tune Talk,Burkina Faso,Other,prepaid,2.28,3.88,,226,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+72,Tune Talk,Burkina Faso,Other,postpaid,2.28,3.88,,226,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+73,Tune Talk,Burundi Kingdom,Other,prepaid,0.48,3.88,,257,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+74,Tune Talk,Burundi Kingdom,Other,postpaid,0.48,3.88,,257,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+75,Tune Talk,Cambodia,Southeast Asia,prepaid,0.35,0.28,,855,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+76,Tune Talk,Cambodia,Southeast Asia,postpaid,0.35,0.28,,855,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+77,Tune Talk,Cameroon,Other,prepaid,0.35,2.28,,237,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+78,Tune Talk,Cameroon,Other,postpaid,0.35,2.28,,237,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+79,Tune Talk,Canada,North America,prepaid,0.35,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+80,Tune Talk,Canada,North America,postpaid,0.35,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+81,Tune Talk,Cape Verde Islands,Other,prepaid,0.48,2.28,,238,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+82,Tune Talk,Cape Verde Islands,Other,postpaid,0.48,2.28,,238,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+83,Tune Talk,Cayman Islands,Other,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+84,Tune Talk,Cayman Islands,Other,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+85,Tune Talk,Central African Republic,Other,prepaid,0.48,5.88,,236,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+86,Tune Talk,Central African Republic,Other,postpaid,0.48,5.88,,236,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+87,Tune Talk,Chad,Other,prepaid,2.28,3.88,,235,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+88,Tune Talk,Chad,Other,postpaid,2.28,3.88,,235,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+89,Tune Talk,Chile,South America,prepaid,14.88,2.28,,56,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+90,Tune Talk,Chile,South America,postpaid,14.88,2.28,,56,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+91,Tune Talk,China,East Asia,prepaid,0.35,0.28,,86,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+92,Tune Talk,China,East Asia,postpaid,0.35,0.28,,86,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+93,Tune Talk,Christmas Islands,Other,prepaid,0.88,0.88,,61891,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+94,Tune Talk,Christmas Islands,Other,postpaid,0.88,0.88,,61891,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+95,Tune Talk,Cocos Islands,Other,prepaid,0.88,0.88,,61891,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+96,Tune Talk,Cocos Islands,Other,postpaid,0.88,0.88,,61891,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+97,Tune Talk,Colombia,South America,prepaid,0.75,0.48,,57,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+98,Tune Talk,Colombia,South America,postpaid,0.75,0.48,,57,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+99,Tune Talk,Comoros,Other,prepaid,2.88,2.88,,269,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+100,Tune Talk,Comoros,Other,postpaid,2.88,2.88,,269,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+101,Tune Talk,Congo,Other,prepaid,4.88,4.88,,242,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+102,Tune Talk,Congo,Other,postpaid,4.88,4.88,,242,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+103,Tune Talk,Cook Islands,Other,prepaid,0.48,7.88,,682,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+104,Tune Talk,Cook Islands,Other,postpaid,0.48,7.88,,682,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+105,Tune Talk,Costa Rica,Other,prepaid,0.35,0.88,,506,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+106,Tune Talk,Costa Rica,Other,postpaid,0.35,0.88,,506,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+107,Tune Talk,Croatia,Europe,prepaid,3.88,2.28,,385,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+108,Tune Talk,Croatia,Europe,postpaid,3.88,2.28,,385,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+109,Tune Talk,Cuba,Other,prepaid,5.88,5.88,,53,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+110,Tune Talk,Cuba,Other,postpaid,5.88,5.88,,53,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+111,Tune Talk,Cyprus,Other,prepaid,0.88,0.88,,357,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+112,Tune Talk,Cyprus,Other,postpaid,0.88,0.88,,357,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+113,Tune Talk,Czech Republic,Europe,prepaid,0.75,0.88,,420,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+114,Tune Talk,Czech Republic,Europe,postpaid,0.75,0.88,,420,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+115,Tune Talk,Dem. Rep. of Congo,Other,prepaid,5.88,5.88,,243,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+116,Tune Talk,Dem. Rep. of Congo,Other,postpaid,5.88,5.88,,243,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+117,Tune Talk,Denmark,Europe,prepaid,0.75,2.28,,45,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+118,Tune Talk,Denmark,Europe,postpaid,0.75,2.28,,45,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+119,Tune Talk,Diego Garcia,Other,prepaid,0.48,7.88,,246,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+120,Tune Talk,Diego Garcia,Other,postpaid,0.48,7.88,,246,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+121,Tune Talk,Djibouti,Other,prepaid,2.28,2.28,,253,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+122,Tune Talk,Djibouti,Other,postpaid,2.28,2.28,,253,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+123,Tune Talk,Dominica,Other,prepaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+124,Tune Talk,Dominica,Other,postpaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+125,Tune Talk,Dominican Republic,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+126,Tune Talk,Dominican Republic,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+127,Tune Talk,Ecuador,Other,prepaid,2.28,2.28,,593,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+128,Tune Talk,Ecuador,Other,postpaid,2.28,2.28,,593,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+129,Tune Talk,Egypt,Middle East,prepaid,0.35,2.28,,20,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+130,Tune Talk,Egypt,Middle East,postpaid,0.35,2.28,,20,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+131,Tune Talk,El Salvador,Other,prepaid,0.28,2.28,,503,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+132,Tune Talk,El Salvador,Other,postpaid,0.28,2.28,,503,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+133,Tune Talk,Equatorial Guinea,Other,prepaid,0.75,3.88,,240,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+134,Tune Talk,Equatorial Guinea,Other,postpaid,0.75,3.88,,240,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+135,Tune Talk,Eritrea,Other,prepaid,2.28,2.28,,291,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+136,Tune Talk,Eritrea,Other,postpaid,2.28,2.28,,291,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+137,Tune Talk,Estonia,Europe,prepaid,0.35,2.28,,372,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+138,Tune Talk,Estonia,Europe,postpaid,0.35,2.28,,372,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+139,Tune Talk,Ethiopia,Other,prepaid,0.75,2.28,,251,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+140,Tune Talk,Ethiopia,Other,postpaid,0.75,2.28,,251,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+141,Tune Talk,Faeroe Islands,Other,prepaid,0.48,2.28,,298,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+142,Tune Talk,Faeroe Islands,Other,postpaid,0.48,2.28,,298,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+143,Tune Talk,Falkland Islands,Other,prepaid,0.48,14.88,,500,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+144,Tune Talk,Falkland Islands,Other,postpaid,0.48,14.88,,500,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+145,Tune Talk,Fiji,Oceania,prepaid,1.25,2.28,,679,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+146,Tune Talk,Fiji,Oceania,postpaid,1.25,2.28,,679,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+147,Tune Talk,Finland,Europe,prepaid,2.28,2.28,,358,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+148,Tune Talk,Finland,Europe,postpaid,2.28,2.28,,358,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+149,Tune Talk,France,Europe,prepaid,0.95,0.2,,33,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+150,Tune Talk,France,Europe,postpaid,0.95,0.2,,33,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+151,Tune Talk,French Guyana,Other,prepaid,0.48,2.28,,594,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+152,Tune Talk,French Guyana,Other,postpaid,0.48,2.28,,594,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+153,Tune Talk,French Polynesia,Other,prepaid,2.28,2.28,,689,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+154,Tune Talk,French Polynesia,Other,postpaid,2.28,2.28,,689,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+155,Tune Talk,Gabon,Other,prepaid,5.88,3.88,,241,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+156,Tune Talk,Gabon,Other,postpaid,5.88,3.88,,241,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+157,Tune Talk,Gambia,Other,prepaid,3.88,7.88,,220,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+158,Tune Talk,Gambia,Other,postpaid,3.88,7.88,,220,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+159,Tune Talk,Georgia,Other,prepaid,0.75,2.28,,995,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+160,Tune Talk,Georgia,Other,postpaid,0.75,2.28,,995,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+161,Tune Talk,Germany,Europe,prepaid,0.75,1.58,,49,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+162,Tune Talk,Germany,Europe,postpaid,0.75,1.58,,49,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+163,Tune Talk,Ghana,Other,prepaid,0.35,2.28,,233,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+164,Tune Talk,Ghana,Other,postpaid,0.35,2.28,,233,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+165,Tune Talk,Gibraltar,Other,prepaid,2.28,2.28,,350,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+166,Tune Talk,Gibraltar,Other,postpaid,2.28,2.28,,350,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+167,Tune Talk,Greece,Europe,prepaid,0.75,2.28,,30,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+168,Tune Talk,Greece,Europe,postpaid,0.75,2.28,,30,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+169,Tune Talk,Greenland,Other,prepaid,2.28,2.28,,299,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+170,Tune Talk,Greenland,Other,postpaid,2.28,2.28,,299,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+171,Tune Talk,Grenada,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+172,Tune Talk,Grenada,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+173,Tune Talk,Guadeloupe,Other,prepaid,2.28,2.28,,590,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+174,Tune Talk,Guadeloupe,Other,postpaid,2.28,2.28,,590,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+175,Tune Talk,Guam,Oceania,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+176,Tune Talk,Guam,Oceania,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+177,Tune Talk,Guatemala,Other,prepaid,2.28,2.28,,502,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+178,Tune Talk,Guatemala,Other,postpaid,2.28,2.28,,502,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+179,Tune Talk,Guinea,Oceania,prepaid,3.88,3.88,,224,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+180,Tune Talk,Guinea,Oceania,postpaid,3.88,3.88,,224,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+181,Tune Talk,Guinea Bissau,Other,prepaid,0.28,3.88,,245,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+182,Tune Talk,Guinea Bissau,Other,postpaid,0.28,3.88,,245,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+183,Tune Talk,Guyana,Other,prepaid,2.28,2.28,,592,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+184,Tune Talk,Guyana,Other,postpaid,2.28,2.28,,592,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+185,Tune Talk,Haiti Republic,Other,prepaid,0.28,2.28,,509,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+186,Tune Talk,Haiti Republic,Other,postpaid,0.28,2.28,,509,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+187,Tune Talk,Haiwaii,Other,prepaid,0.45,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+188,Tune Talk,Haiwaii,Other,postpaid,0.45,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+189,Tune Talk,Honduras,Other,prepaid,0.28,2.28,,504,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+190,Tune Talk,Honduras,Other,postpaid,0.28,2.28,,504,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+191,Tune Talk,Hong Kong,East Asia,prepaid,0.48,0.28,,852,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+192,Tune Talk,Hong Kong,East Asia,postpaid,0.48,0.28,,852,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+193,Tune Talk,Hungary,Europe,prepaid,2.28,2.28,,36,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+194,Tune Talk,Hungary,Europe,postpaid,2.28,2.28,,36,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+195,Tune Talk,Iceland,Other,prepaid,0.35,2.28,,354,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+196,Tune Talk,Iceland,Other,postpaid,0.35,2.28,,354,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+197,Tune Talk,India,South Asia,prepaid,0.3,0.15,,91,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+198,Tune Talk,India,South Asia,postpaid,0.3,0.15,,91,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+199,Tune Talk,Indonesia,Southeast Asia,prepaid,0.48,0.22,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+200,Tune Talk,Indonesia,Southeast Asia,postpaid,0.48,0.22,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+201,Tune Talk,Indonesia_Batam,Southeast Asia,prepaid,0.48,0.48,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+202,Tune Talk,Indonesia_Batam,Southeast Asia,postpaid,0.48,0.48,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+203,Tune Talk,Indonesia_M-Excelcom,Southeast Asia,prepaid,0.48,0.22,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+204,Tune Talk,Indonesia_M-Excelcom,Southeast Asia,postpaid,0.48,0.22,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+205,Tune Talk,Indonesia_Telkomsel,Southeast Asia,prepaid,0.48,0.48,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+206,Tune Talk,Indonesia_Telkomsel,Southeast Asia,postpaid,0.48,0.48,,62,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+207,Tune Talk,Iran,Middle East,prepaid,2.28,2.28,,98,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+208,Tune Talk,Iran,Middle East,postpaid,2.28,2.28,,98,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+209,Tune Talk,Iraq,Middle East,prepaid,0.35,2.28,,964,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+210,Tune Talk,Iraq,Middle East,postpaid,0.35,2.28,,964,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+211,Tune Talk,Ireland,Europe,prepaid,2.28,2.28,,353,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+212,Tune Talk,Ireland,Europe,postpaid,2.28,2.28,,353,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+213,Tune Talk,Israel,Middle East,prepaid,2.28,2.28,,972,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+214,Tune Talk,Israel,Middle East,postpaid,2.28,2.28,,972,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+215,Tune Talk,Italy,Europe,prepaid,0.75,2.28,,39,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+216,Tune Talk,Italy,Europe,postpaid,0.75,2.28,,39,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+217,Tune Talk,Ivory Coast,Other,prepaid,0.75,2.88,,225,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+218,Tune Talk,Ivory Coast,Other,postpaid,0.75,2.88,,225,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+219,Tune Talk,Jamaica,Other,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+220,Tune Talk,Jamaica,Other,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+221,Tune Talk,Japan,East Asia,prepaid,0.88,0.28,,81,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+222,Tune Talk,Japan,East Asia,postpaid,0.88,0.28,,81,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+223,Tune Talk,Jordan,Middle East,prepaid,0.75,2.28,,962,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+224,Tune Talk,Jordan,Middle East,postpaid,0.75,2.28,,962,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+225,Tune Talk,Kazakhstan,Other,prepaid,2.38,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+226,Tune Talk,Kazakhstan,Other,postpaid,2.38,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+227,Tune Talk,Kenya,Other,prepaid,0.35,2.28,,254,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+228,Tune Talk,Kenya,Other,postpaid,0.35,2.28,,254,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+229,Tune Talk,Kiribati,Other,prepaid,3.88,15.0,,686,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+230,Tune Talk,Kiribati,Other,postpaid,3.88,15.0,,686,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+231,Tune Talk,Kuwait,Middle East,prepaid,0.35,1.28,,965,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+232,Tune Talk,Kuwait,Middle East,postpaid,0.35,1.28,,965,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+233,Tune Talk,Kyrgyzstan,Other,prepaid,2.28,2.28,,996,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+234,Tune Talk,Kyrgyzstan,Other,postpaid,2.28,2.28,,996,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+235,Tune Talk,Laos,Southeast Asia,prepaid,0.35,0.78,,856,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+236,Tune Talk,Laos,Southeast Asia,postpaid,0.35,0.78,,856,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+237,Tune Talk,Latvia,Europe,prepaid,2.28,2.28,,371,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+238,Tune Talk,Latvia,Europe,postpaid,2.28,2.28,,371,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+239,Tune Talk,Lebanon,Middle East,prepaid,0.75,2.28,,961,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+240,Tune Talk,Lebanon,Middle East,postpaid,0.75,2.28,,961,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+241,Tune Talk,Lesotho,Other,prepaid,2.28,28.0,,266,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+242,Tune Talk,Lesotho,Other,postpaid,2.28,28.0,,266,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+243,Tune Talk,Liberia,Other,prepaid,0.35,2.28,,231,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+244,Tune Talk,Liberia,Other,postpaid,0.35,2.28,,231,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+245,Tune Talk,Libya,Middle East,prepaid,0.75,2.28,,218,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+246,Tune Talk,Libya,Middle East,postpaid,0.75,2.28,,218,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+247,Tune Talk,Liechtenstein,Other,prepaid,2.28,2.28,,423,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+248,Tune Talk,Liechtenstein,Other,postpaid,2.28,2.28,,423,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+249,Tune Talk,Lithuania,Europe,prepaid,2.28,2.28,,370,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+250,Tune Talk,Lithuania,Europe,postpaid,2.28,2.28,,370,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+251,Tune Talk,Luxembourg (+),Other,prepaid,0.75,2.28,,,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+252,Tune Talk,Luxembourg (+),Other,postpaid,0.75,2.28,,,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+253,Tune Talk,Macau,East Asia,prepaid,0.75,0.55,,853,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+254,Tune Talk,Macau,East Asia,postpaid,0.75,0.55,,853,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+255,Tune Talk,Macedonia,Other,prepaid,3.88,7.88,,389,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+256,Tune Talk,Macedonia,Other,postpaid,3.88,7.88,,389,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+257,Tune Talk,Madagascar,Other,prepaid,3.88,5.88,,261,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+258,Tune Talk,Madagascar,Other,postpaid,3.88,5.88,,261,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+259,Tune Talk,Madeira,Other,prepaid,0.48,0.48,,351,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+260,Tune Talk,Madeira,Other,postpaid,0.48,0.48,,351,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+261,Tune Talk,Maldives,South Asia,prepaid,0.75,5.88,,960,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+262,Tune Talk,Maldives,South Asia,postpaid,0.75,5.88,,960,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+263,Tune Talk,Mali,Other,prepaid,0.35,2.88,,223,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+264,Tune Talk,Mali,Other,postpaid,0.35,2.88,,223,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+265,Tune Talk,Malta,Other,prepaid,2.28,2.28,,356,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+266,Tune Talk,Malta,Other,postpaid,2.28,2.28,,356,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+267,Tune Talk,Marshall Islands,Other,prepaid,0.28,2.28,,692,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+268,Tune Talk,Marshall Islands,Other,postpaid,0.28,2.28,,692,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+269,Tune Talk,Martinique,Other,prepaid,2.28,2.28,,596,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+270,Tune Talk,Martinique,Other,postpaid,2.28,2.28,,596,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+271,Tune Talk,Mauritania,Other,prepaid,3.88,3.88,,222,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+272,Tune Talk,Mauritania,Other,postpaid,3.88,3.88,,222,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+273,Tune Talk,Mauritius Island,Other,prepaid,0.75,2.28,,230,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+274,Tune Talk,Mauritius Island,Other,postpaid,0.75,2.28,,230,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+275,Tune Talk,Mayotte,Other,prepaid,0.48,2.28,,262,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+276,Tune Talk,Mayotte,Other,postpaid,0.48,2.28,,262,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+277,Tune Talk,Mexico,North America,prepaid,0.75,0.28,,52,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+278,Tune Talk,Mexico,North America,postpaid,0.75,0.28,,52,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+279,Tune Talk,Micronesia,Other,prepaid,2.28,2.28,,691,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+280,Tune Talk,Micronesia,Other,postpaid,2.28,2.28,,691,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+281,Tune Talk,Moldova,Other,prepaid,2.28,2.28,,373,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+282,Tune Talk,Moldova,Other,postpaid,2.28,2.28,,373,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+283,Tune Talk,Monaco,Other,prepaid,0.48,2.28,,377,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+284,Tune Talk,Monaco,Other,postpaid,0.48,2.28,,377,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+285,Tune Talk,Mongolia,Other,prepaid,2.28,2.28,,976,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+286,Tune Talk,Mongolia,Other,postpaid,2.28,2.28,,976,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+287,Tune Talk,Montenegro,Other,prepaid,0.75,2.88,,382,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+288,Tune Talk,Montenegro,Other,postpaid,0.75,2.88,,382,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+289,Tune Talk,Montserrat,Other,prepaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+290,Tune Talk,Montserrat,Other,postpaid,0.75,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+291,Tune Talk,Morocco,Middle East,prepaid,0.35,2.88,,212,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+292,Tune Talk,Morocco,Middle East,postpaid,0.35,2.88,,212,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+293,Tune Talk,Mozambique,Other,prepaid,5.88,2.28,,258,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+294,Tune Talk,Mozambique,Other,postpaid,5.88,2.28,,258,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+295,Tune Talk,Myanmar (Burma),Southeast Asia,prepaid,1.05,0.88,,95,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+296,Tune Talk,Myanmar (Burma),Southeast Asia,postpaid,1.05,0.88,,95,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+297,Tune Talk,Namibia,Other,prepaid,2.28,2.28,,264,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+298,Tune Talk,Namibia,Other,postpaid,2.28,2.28,,264,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+299,Tune Talk,Nauru,Other,prepaid,5.88,15.0,,674,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+300,Tune Talk,Nauru,Other,postpaid,5.88,15.0,,674,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+301,Tune Talk,Nepal,South Asia,prepaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+302,Tune Talk,Nepal,South Asia,postpaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+303,Tune Talk,Nepal_Ncell,South Asia,prepaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+304,Tune Talk,Nepal_Ncell,South Asia,postpaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+305,Tune Talk,Nepal_NTC,South Asia,prepaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+306,Tune Talk,Nepal_NTC,South Asia,postpaid,0.28,0.58,,977,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+307,Tune Talk,Netherlands,Europe,prepaid,0.75,3.88,,31,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+308,Tune Talk,Netherlands,Europe,postpaid,0.75,3.88,,31,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+309,Tune Talk,Netherlands Antilles,Europe,prepaid,2.28,2.28,,599,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+310,Tune Talk,Netherlands Antilles,Europe,postpaid,2.28,2.28,,599,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+311,Tune Talk,New Caledonia,Other,prepaid,2.28,2.28,,687,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+312,Tune Talk,New Caledonia,Other,postpaid,2.28,2.28,,687,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+313,Tune Talk,New Zealand,Oceania,prepaid,0.35,0.95,,64,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+314,Tune Talk,New Zealand,Oceania,postpaid,0.35,0.95,,64,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+315,Tune Talk,Nicaragua,Other,prepaid,2.28,2.28,,505,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+316,Tune Talk,Nicaragua,Other,postpaid,2.28,2.28,,505,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+317,Tune Talk,Niger,Other,prepaid,0.48,2.28,,227,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+318,Tune Talk,Niger,Other,postpaid,0.48,2.28,,227,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+319,Tune Talk,Nigeria,Other,prepaid,0.75,1.38,,234,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+320,Tune Talk,Nigeria,Other,postpaid,0.75,1.38,,234,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+321,Tune Talk,Niue Island,Other,prepaid,7.88,15.0,,683,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+322,Tune Talk,Niue Island,Other,postpaid,7.88,15.0,,683,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+323,Tune Talk,Norfolk Island,Other,prepaid,0.48,7.88,,672,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+324,Tune Talk,Norfolk Island,Other,postpaid,0.48,7.88,,672,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+325,Tune Talk,North Korea,Other,prepaid,0.28,2.88,,850,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+326,Tune Talk,North Korea,Other,postpaid,0.28,2.88,,850,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+327,Tune Talk,Northen Mariana Island,Other,prepaid,0.48,0.48,,1670,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+328,Tune Talk,Northen Mariana Island,Other,postpaid,0.48,0.48,,1670,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+329,Tune Talk,Norway,Europe,prepaid,0.88,0.88,,47,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+330,Tune Talk,Norway,Europe,postpaid,0.88,0.88,,47,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+331,Tune Talk,Oman,Middle East,prepaid,0.35,1.88,,968,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+332,Tune Talk,Oman,Middle East,postpaid,0.35,1.88,,968,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+333,Tune Talk,Pakistan,South Asia,prepaid,0.35,0.3,,92,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+334,Tune Talk,Pakistan,South Asia,postpaid,0.35,0.3,,92,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+335,Tune Talk,Palau,Other,prepaid,0.28,2.28,,680,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+336,Tune Talk,Palau,Other,postpaid,0.28,2.28,,680,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+337,Tune Talk,Palestine,Other,prepaid,2.28,2.28,,970,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+338,Tune Talk,Palestine,Other,postpaid,2.28,2.28,,970,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+339,Tune Talk,Panama,Other,prepaid,0.75,2.28,,507,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+340,Tune Talk,Panama,Other,postpaid,0.75,2.28,,507,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+341,Tune Talk,Papua New Guinea,Oceania,prepaid,4.88,3.88,,675,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+342,Tune Talk,Papua New Guinea,Oceania,postpaid,4.88,3.88,,675,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+343,Tune Talk,Paraguay,Other,prepaid,0.75,2.28,,595,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+344,Tune Talk,Paraguay,Other,postpaid,0.75,2.28,,595,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+345,Tune Talk,Peru,South America,prepaid,0.35,2.28,,51,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+346,Tune Talk,Peru,South America,postpaid,0.35,2.28,,51,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+347,Tune Talk,Philippines,Southeast Asia,prepaid,0.28,0.56,,63,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+348,Tune Talk,Philippines,Southeast Asia,postpaid,0.28,0.56,,63,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+349,Tune Talk,Poland,Europe,prepaid,15.0,7.88,,48,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+350,Tune Talk,Poland,Europe,postpaid,15.0,7.88,,48,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+351,Tune Talk,Puerto Rico,Other,prepaid,0.48,0.88,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+352,Tune Talk,Puerto Rico,Other,postpaid,0.48,0.88,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+353,Tune Talk,Qatar,Middle East,prepaid,1.25,1.28,,974,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+354,Tune Talk,Qatar,Middle East,postpaid,1.25,1.28,,974,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+355,Tune Talk,Reunion Islands,Other,prepaid,3.88,3.88,,262,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+356,Tune Talk,Reunion Islands,Other,postpaid,3.88,3.88,,262,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+357,Tune Talk,Romania,Europe,prepaid,0.75,2.28,,40,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+358,Tune Talk,Romania,Europe,postpaid,0.75,2.28,,40,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+359,Tune Talk,Russia,Europe,prepaid,0.75,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+360,Tune Talk,Russia,Europe,postpaid,0.75,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+361,Tune Talk,Rwanda,Other,prepaid,0.75,2.28,,250,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+362,Tune Talk,Rwanda,Other,postpaid,0.75,2.28,,250,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+363,Tune Talk,Samoa,Other,prepaid,0.28,7.88,,685,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+364,Tune Talk,Samoa,Other,postpaid,0.28,7.88,,685,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+365,Tune Talk,San Marino,Other,prepaid,2.28,2.28,,378,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+366,Tune Talk,San Marino,Other,postpaid,2.28,2.28,,378,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+367,Tune Talk,Sao Tome & Principe,Other,prepaid,0.48,15.0,,239,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+368,Tune Talk,Sao Tome & Principe,Other,postpaid,0.48,15.0,,239,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+369,Tune Talk,Saudi Arabia,Middle East,prepaid,0.75,1.0,,966,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+370,Tune Talk,Saudi Arabia,Middle East,postpaid,0.75,1.0,,966,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+371,Tune Talk,Senegal,Other,prepaid,0.35,2.28,,221,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+372,Tune Talk,Senegal,Other,postpaid,0.35,2.28,,221,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+373,Tune Talk,Serbia,Europe,prepaid,2.28,2.28,,381,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+374,Tune Talk,Serbia,Europe,postpaid,2.28,2.28,,381,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+375,Tune Talk,Seychelles,Other,prepaid,2.28,5.88,,248,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+376,Tune Talk,Seychelles,Other,postpaid,2.28,5.88,,248,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+377,Tune Talk,Sierra Leone,Other,prepaid,0.35,3.88,,232,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+378,Tune Talk,Sierra Leone,Other,postpaid,0.35,3.88,,232,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+379,Tune Talk,Singapore,Southeast Asia,prepaid,0.27,0.2,,65,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+380,Tune Talk,Singapore,Southeast Asia,postpaid,0.27,0.2,,65,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+381,Tune Talk,Slovakia,Europe,prepaid,0.75,0.88,,421,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+382,Tune Talk,Slovakia,Europe,postpaid,0.75,0.88,,421,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+383,Tune Talk,Slovenia,Europe,prepaid,3.88,3.88,,386,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+384,Tune Talk,Slovenia,Europe,postpaid,3.88,3.88,,386,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+385,Tune Talk,Solomon Island,Other,prepaid,0.28,15.0,,677,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+386,Tune Talk,Solomon Island,Other,postpaid,0.28,15.0,,677,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+387,Tune Talk,Somalia,Other,prepaid,2.28,2.28,,252,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+388,Tune Talk,Somalia,Other,postpaid,2.28,2.28,,252,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+389,Tune Talk,South Africa,Other,prepaid,1.25,2.28,,27,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+390,Tune Talk,South Africa,Other,postpaid,1.25,2.28,,27,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+391,Tune Talk,South Korea,East Asia,prepaid,0.35,0.18,,82,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+392,Tune Talk,South Korea,East Asia,postpaid,0.35,0.18,,82,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+393,Tune Talk,South Sudan,Other,prepaid,3.88,3.88,,249,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+394,Tune Talk,South Sudan,Other,postpaid,3.88,3.88,,249,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+395,Tune Talk,Spain,Europe,prepaid,0.75,2.28,,34,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+396,Tune Talk,Spain,Europe,postpaid,0.75,2.28,,34,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+397,Tune Talk,Sri Lanka,South Asia,prepaid,0.7,0.7,,94,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+398,Tune Talk,Sri Lanka,South Asia,postpaid,0.7,0.7,,94,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+399,Tune Talk,St. Helena,Other,prepaid,0.48,15.0,,290,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+400,Tune Talk,St. Helena,Other,postpaid,0.48,15.0,,290,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+401,Tune Talk,St. Kitts & Nevis,Other,prepaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+402,Tune Talk,St. Kitts & Nevis,Other,postpaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+403,Tune Talk,St. Lucia,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+404,Tune Talk,St. Lucia,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+405,Tune Talk,St. Maarten,Other,prepaid,2.28,2.28,,590,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+406,Tune Talk,St. Maarten,Other,postpaid,2.28,2.28,,590,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+407,Tune Talk,St. Pierre & Miquelon,Other,prepaid,0.48,3.88,,508,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+408,Tune Talk,St. Pierre & Miquelon,Other,postpaid,0.48,3.88,,508,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+409,Tune Talk,St. Vincent & Grenadines,Other,prepaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+410,Tune Talk,St. Vincent & Grenadines,Other,postpaid,0.48,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+411,Tune Talk,Sudan,Other,prepaid,0.75,2.28,,249,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+412,Tune Talk,Sudan,Other,postpaid,0.75,2.28,,249,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+413,Tune Talk,Suriname,Other,prepaid,2.28,2.28,,597,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+414,Tune Talk,Suriname,Other,postpaid,2.28,2.28,,597,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+415,Tune Talk,Swaziland,Other,prepaid,2.28,2.28,,268,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+416,Tune Talk,Swaziland,Other,postpaid,2.28,2.28,,268,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+417,Tune Talk,Sweden,Europe,prepaid,2.28,2.28,,46,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+418,Tune Talk,Sweden,Europe,postpaid,2.28,2.28,,46,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+419,Tune Talk,Switzerland,Europe,prepaid,5.88,2.28,,41,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+420,Tune Talk,Switzerland,Europe,postpaid,5.88,2.28,,41,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+421,Tune Talk,Syria,Other,prepaid,2.28,2.28,,963,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+422,Tune Talk,Syria,Other,postpaid,2.28,2.28,,963,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+423,Tune Talk,Taiwan,East Asia,prepaid,0.4,0.18,,886,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+424,Tune Talk,Taiwan,East Asia,postpaid,0.4,0.18,,886,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+425,Tune Talk,Tajikistan,Other,prepaid,0.75,2.28,,992,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+426,Tune Talk,Tajikistan,Other,postpaid,0.75,2.28,,992,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+427,Tune Talk,Tanzania,Other,prepaid,0.35,2.28,,255,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+428,Tune Talk,Tanzania,Other,postpaid,0.35,2.28,,255,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+429,Tune Talk,Tatarstan,Other,prepaid,0.48,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+430,Tune Talk,Tatarstan,Other,postpaid,0.48,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+431,Tune Talk,Thailand,Southeast Asia,prepaid,0.75,0.34,,66,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+432,Tune Talk,Thailand,Southeast Asia,postpaid,0.75,0.34,,66,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+433,Tune Talk,Timor Leste,Other,prepaid,1.25,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+434,Tune Talk,Timor Leste,Other,postpaid,1.25,2.28,,7,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+435,Tune Talk,Tokelau,Other,prepaid,15.0,15.0,,690,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+436,Tune Talk,Tokelau,Other,postpaid,15.0,15.0,,690,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+437,Tune Talk,Tonga,Other,prepaid,0.48,7.88,,676,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+438,Tune Talk,Tonga,Other,postpaid,0.48,7.88,,676,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+439,Tune Talk,Trinidad & Tobago,Other,prepaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+440,Tune Talk,Trinidad & Tobago,Other,postpaid,2.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+441,Tune Talk,Tunisia,Middle East,prepaid,0.35,5.88,,216,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+442,Tune Talk,Tunisia,Middle East,postpaid,0.35,5.88,,216,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+443,Tune Talk,Turkey,Europe,prepaid,0.75,2.28,,90,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+444,Tune Talk,Turkey,Europe,postpaid,0.75,2.28,,90,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+445,Tune Talk,Turkmenistan,Other,prepaid,2.28,2.28,,993,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+446,Tune Talk,Turkmenistan,Other,postpaid,2.28,2.28,,993,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+447,Tune Talk,Turks & Caicos Islands,Other,prepaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+448,Tune Talk,Turks & Caicos Islands,Other,postpaid,0.28,2.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+449,Tune Talk,Tuvalu,Other,prepaid,0.48,15.0,,688,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+450,Tune Talk,Tuvalu,Other,postpaid,0.48,15.0,,688,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+451,Tune Talk,U.S Virgin Islands,Other,prepaid,0.28,0.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+452,Tune Talk,U.S Virgin Islands,Other,postpaid,0.28,0.28,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+453,Tune Talk,Uganda,Other,prepaid,1.25,2.28,,256,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+454,Tune Talk,Uganda,Other,postpaid,1.25,2.28,,256,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+455,Tune Talk,Ukraine,Europe,prepaid,2.28,2.28,,380,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+456,Tune Talk,Ukraine,Europe,postpaid,2.28,2.28,,380,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+457,Tune Talk,United Arab Emirates,Middle East,prepaid,1.25,1.01,,971,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+458,Tune Talk,United Arab Emirates,Middle East,postpaid,1.25,1.01,,971,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+459,Tune Talk,United Kingdom,Europe,prepaid,0.35,1.88,,44,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+460,Tune Talk,United Kingdom,Europe,postpaid,0.35,1.88,,44,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+461,Tune Talk,United States of America,North America,prepaid,0.35,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+462,Tune Talk,United States of America,North America,postpaid,0.35,0.45,,1,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+463,Tune Talk,Uruguay,Other,prepaid,2.28,2.28,,598,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+464,Tune Talk,Uruguay,Other,postpaid,2.28,2.28,,598,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+465,Tune Talk,Uzbekistan,Other,prepaid,0.75,2.28,,998,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+466,Tune Talk,Uzbekistan,Other,postpaid,0.75,2.28,,998,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+467,Tune Talk,Vanuatu/New Hebrides,Other,prepaid,7.88,7.88,,678,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+468,Tune Talk,Vanuatu/New Hebrides,Other,postpaid,7.88,7.88,,678,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+469,Tune Talk,Vatican,Other,prepaid,0.48,0.48,,379,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+470,Tune Talk,Vatican,Other,postpaid,0.48,0.48,,379,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+471,Tune Talk,Venezula,Other,prepaid,0.75,2.28,,58,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+472,Tune Talk,Venezula,Other,postpaid,0.75,2.28,,58,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+473,Tune Talk,Vietnam,Southeast Asia,prepaid,0.75,0.3,,84,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+474,Tune Talk,Vietnam,Southeast Asia,postpaid,0.75,0.3,,84,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+475,Tune Talk,Wallis & Futuna Islands,Other,prepaid,2.28,2.28,,681,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+476,Tune Talk,Wallis & Futuna Islands,Other,postpaid,2.28,2.28,,681,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+477,Tune Talk,Yemen (+),Middle East,prepaid,0.35,2.28,,,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+478,Tune Talk,Yemen (+),Middle East,postpaid,0.35,2.28,,,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+479,Tune Talk,Zambia,Other,prepaid,0.75,3.88,,260,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+480,Tune Talk,Zambia,Other,postpaid,0.75,3.88,,260,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+481,Tune Talk,Zimbabwe,Other,prepaid,3.88,3.88,,263,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40
+482,Tune Talk,Zimbabwe,Other,postpaid,3.88,3.88,,263,132,False,,https://www.tunetalk.com/prepaid/idd/,2026-05-17T08:03:40

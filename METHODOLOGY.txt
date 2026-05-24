@@ -1,0 +1,429 @@
+================================================================================
+IDD RATE DATA COLLECTION — METHODOLOGY
+Malaysian Telecom IDD Rate Scraping Project
+================================================================================
+
+OVERVIEW
+--------
+This project collects International Direct Dial (IDD) call and SMS rates from
+8 Malaysian telecom brands into a single unified dataset (data/idd.csv).
+
+Each brand publishes IDD rates on its own website using a different tech stack.
+The collection method is chosen per brand based on how data is rendered:
+  - Static JSON embedded in HTML (Yes)
+  - WordPress AJAX endpoint (Tune Talk)
+  - Playwright headless Chromium for JavaScript-rendered pages (all others)
+
+Static HTML snapshots of each brand's IDD page are stored in data/html_debug/
+and are used to extract the country list offline before live scraping begins.
+This avoids a full page load just to enumerate the dropdown options, and keeps
+the country list reproducible even if the live page changes.
+
+OUTPUT SCHEMA (data/idd.csv)
+-----------------------------
+  record_id             : Sequential row number
+  brand                 : Telecom brand name
+  country               : Destination country (normalised canonical name)
+  region                : Geographic region (from data/countries.csv lookup)
+  plan_type             : "prepaid", "postpaid", or "roaming" (CelcomDigi/Unifi)
+  rate_per_min_myr      : Call rate to mobile line, RM per minute
+  rate_fixed_per_min_myr: Call rate to fixed/landline, RM per minute
+  rate_per_sms_myr      : SMS rate, RM per SMS
+  notes                 : Supplementary info (IDD 132 rates, video call, MMS,
+                          dial instructions)
+  source_url            : URL scraped
+  scraped_at            : ISO 8601 timestamp of scrape
+
+
+================================================================================
+BRAND-BY-BRAND SCRAPING METHODOLOGY
+================================================================================
+
+--------------------------------------------------------------------------------
+1. YES  —  extract_yes_idd.py
+   Source:  https://yes.my/roaming  (snapshot: data/html_debug/yes_roaming.html)
+--------------------------------------------------------------------------------
+
+METHOD: Static JSON extraction (no live browser required)
+
+The Yes website embeds all IDD rate data as a JavaScript variable named
+`var jsonIdd` directly in the page HTML. This variable holds a nested JSON
+object containing every country's rates for both plan types.
+
+PROCESS:
+  1. Read the HTML snapshot data/html_debug/yes_roaming.html.
+  2. Locate the string "var jsonIdd" and extract the JSON object using a
+     balanced-brace parser that correctly handles nested structures.
+  3. Parse the JSON: each entry contains country_name, callRateFixed,
+     callRateMobile, smsRate, and planType.
+  4. Map fields to the unified schema:
+       callRateFixed  → rate_fixed_per_min_myr
+       callRateMobile → rate_per_min_myr
+       smsRate        → rate_per_sms_myr
+  5. Some values use a comma as the decimal separator (e.g. "9,80") — these
+     are normalised to floats automatically.
+  6. Write to data/source/yes_idd.csv.
+
+OUTPUT: ~476 rows (238 countries × 2 plan types)
+
+
+--------------------------------------------------------------------------------
+2. HOTLINK  —  run_hotlink_idd.py
+   Source:  https://www.hotlink.com.my/idd/
+            (snapshot: data/html_debug/hotlink_idd.html)
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with Bootstrap tab navigation
+
+The Hotlink IDD page renders rates after a country is selected from a
+<select name="roaming-dropdown"> dropdown. The page contains two Bootstrap
+tabs — "Hotlink Prepaid" and "Hotlink Postpaid" — each showing different
+rates for the selected country. Both tab panes exist in the DOM simultaneously;
+only the active pane (div.tab-pane.fade.show.active) reflects the current tab.
+Scraping the full DOM without tab awareness would silently mix rates from both
+tabs into the same row.
+
+PROCESS:
+  1. Extract the country list from the HTML snapshot (option values from the
+     roaming-dropdown select element).
+  2. Launch Playwright headless Chromium; navigate to the live IDD URL.
+  3. For each country:
+       a. Call select_option on the dropdown (by option value).
+       b. Click the "Hotlink Prepaid" nav-link tab; wait 600ms for animation.
+       c. Capture page HTML; parse the active pane div.tab-pane.fade.show.active.
+       d. Click the "Hotlink Postpaid" nav-link tab; wait 600ms.
+       e. Capture and parse the newly active pane.
+  4. Rate extraction from each pane (extract_tab_rates):
+       - Rate blocks use CSS class "rebrand-roaming-cruise-table".
+       - SMS block: identified by "/sms" in block text; rate parsed from
+         the element prefixed with "RM".
+       - IDD 132 block: identified by "idd 132" in block text; rates placed
+         in the notes column, not in the main rate columns.
+       - Direct Dial block: main IDD call rate.
+           * If the price-section contains both "To Fixed Line" and
+             "To Mobile Line", two price-wrappers are parsed:
+             rates[0] → rate_fixed_per_min_myr, rates[1] → rate_per_min_myr.
+           * If only one rate is present, it applies to both fixed and mobile.
+       - Rate units: "/min" used directly; "/N secs" converted → value×60/N.
+  5. Two rows written per country: one prepaid, one postpaid.
+  6. IDD 132 info in notes (postpaid rows only):
+     "IDD 132: RM{rate}/min; Dial: 132 00 <country code> <area code> <number>"
+
+OUTPUT: ~430 rows (215 countries × 2 plan types), ~426/430 with call rates,
+        2 known failures (Afghanistan, D.R. Congo — page timeouts)
+
+
+--------------------------------------------------------------------------------
+3. MAXIS  —  run_maxis_idd.py
+   Source:  https://www.maxis.com.my/idd/
+            (snapshot: data/html_debug/maxis_idd.html)
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with Bootstrap tab navigation
+
+Maxis and Hotlink share the same website CMS/template. The page structure is
+identical — same dropdown, same Bootstrap tab layout, same tab labels. The
+scraping logic mirrors run_hotlink_idd.py with three differences.
+
+KEY DIFFERENCES FROM HOTLINK:
+  1. Rate block class is "cmp-rebrand-roaming-cruise-table" (not "rebrand-...").
+  2. Rate values are stored as bare numbers in <span class="price"> elements
+     (e.g. <span class="price">1.20</span>) with the billing unit in the
+     surrounding text rather than inline with the figure.
+  3. Rates may be expressed in non-standard time units and must be converted:
+       /min      → use value as-is
+       /60 secs  → value × 60/60 = value  (e.g. RM1.20/60sec = RM1.20/min)
+       /240 secs → value × 60/240 = value/4  (e.g. RM0.72/240sec = RM0.18/min)
+
+PANE STRUCTURE (per country):
+  Prepaid tab:
+    - "Direct Dial" block: separate fixed-line and mobile-line rates.
+  Postpaid tab:
+    - "Premium" (IDD Calls) block: single rate applies to both fixed and mobile
+      (expressed in /60 secs or /min).
+    - "IDD 132" block: separate fixed and mobile rates, expressed in /240 secs;
+      both converted to /min and placed in notes.
+    - "SMS" block in both tabs: rate_per_sms_myr.
+
+IDD 132 notes format:
+  "IDD 132 Fixed: RM{x}/min; Mobile: RM{y}/min;
+   Dial: 132 00 <country code> <area code> <phone number>"
+
+OUTPUT: ~382 rows (191 countries × 2 plan types), ~325/382 with call rates,
+        ~28 countries with page timeouts (Afghanistan and others)
+
+
+--------------------------------------------------------------------------------
+4. TUNE TALK  —  scrape_idd_remaining.py
+   Source:  https://www.tunetalk.com/prepaid/idd/
+            (snapshot: data/html_debug/tunetalk_idd.html)
+--------------------------------------------------------------------------------
+
+METHOD: WordPress AJAX API (HTTP POST — no browser needed)
+
+The Tune Talk IDD page is a WordPress site. Country rates are loaded via the
+WordPress AJAX action "load_idd_data". The page dropdown's option values are
+WordPress post IDs, not country names. Rates are fetched by POSTing each post ID
+to the WP admin-ajax.php endpoint and parsing the HTML fragment it returns.
+
+PROCESS:
+  1. Read the HTML snapshot to extract the country dropdown (option values are
+     WordPress post IDs; option text is the country name).
+  2. For each country, POST to:
+       https://www.tunetalk.com/wp-admin/admin-ajax.php
+       Body: action=load_idd_data&post_id={post_id}
+  3. Parse the returned HTML fragment for rate blocks containing labels
+     ("To Fixed Line", "To Mobile Line", "SMS") and RM values.
+  4. Write two rows per country (prepaid and postpaid receive the same rates —
+     TuneTalk has a single rate table with no plan-type distinction).
+
+POST-PROCESSING COLUMN FIX (applied automatically in consolidate_idd.py):
+The scraper places the SMS rate in rate_per_min_myr due to how the HTML
+fragment sequences its blocks. The fix applied at consolidation time:
+  rate_per_sms_myr    ← rate_per_min_myr   (SMS rate moved to correct column)
+  rate_per_min_myr    ← rate_fixed_per_min_myr  (call rate restored)
+
+OUTPUT: ~482 rows (241 countries × 2 plan types), 482/482 SMS filled after fix
+
+
+--------------------------------------------------------------------------------
+5. REDONE  —  run_redone_idd.py
+   Source:  https://www.redonemobile.com.my/en/idd/
+            (snapshot: data/html_debug/redone_idd.html)
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with JetEngine/Elementor listing grid
+
+The redONE IDD page uses a JetSmartFilters dropdown
+(<select class="jet-select__control">) to select countries. After selection,
+a JetEngine listing grid (.jet-listing-grid__items) updates dynamically with
+rate cards for the selected country.
+
+KEY INSIGHT: Rate values are not enclosed in a single labelled container.
+Instead, labels and values alternate as separate block-level elements in a
+fixed sequence across the entire listing grid:
+  h2: "FIXED LINE (SEN/MIN)"  →  h5: "RM"  →  h5: "0.43"
+  h2: "MOBILE (SEN/MIN)"      →  h5: "RM"  →  h5: "0.43"
+  h2: "VIDEO CALL (SEN/MIN)"  →  h5: "RM"  →  h5: "0.44"
+  h2: "SMS (SEN/SMS)"         →  h5: "RM"  →  h5: "0.50"
+  h2: "MMS (SEN/MMS)"         →  h5: "RM"  →  h5: "2.00"
+The parser walks all h2 and h5 elements in order; when an h2 matches a known
+label and the next two elements are h5("RM") and h5(numeric), it captures
+the value.
+
+PROCESS:
+  1. Extract country list from the HTML snapshot (option values are plain
+     country names, unlike other sites that embed the dialing code in the value).
+  2. Launch Playwright; navigate to the live URL.
+  3. For each country, call select_option, wait 1200ms, then read the
+     inner_html of .jet-listing-grid__items.
+  4. Parse the sequential h2/h5 element stream as described above.
+  5. VIDEO CALL and MMS rates are placed in the notes column:
+     "video_call={X}/min; mms={X}/mms"
+  6. Both prepaid and postpaid rows receive identical rates (redONE publishes
+     a single undifferentiated rate table).
+
+OUTPUT: ~494 rows (247 countries × 2 plan types), 492/494 SMS filled
+
+
+--------------------------------------------------------------------------------
+6. U MOBILE  —  run_umobile_idd.py  (calls scrape_idd_playwright.py)
+   Source:  https://www.u.com.my/en/idd
+            (snapshot: data/html_debug/umobile_idd.html)
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with dropdown selection
+
+The U Mobile IDD page uses a dropdown to select a destination country. After
+selection, rate cards update dynamically to show the call and SMS rates for
+that country.
+
+PROCESS:
+  1. Extract country list from the HTML snapshot.
+  2. Launch Playwright; navigate to the live URL.
+  3. For each country, select the option and wait for the rate cards to render.
+  4. Parse rate blocks — each block contains a label and an RM value.
+  5. Both prepaid and postpaid rows receive identical rates.
+
+POST-PROCESSING FIX (applied automatically in consolidate_idd.py):
+The scraper does not capture the SMS rate from the live page. Manual inspection
+of the website confirms a flat rate of RM0.35/SMS applicable to all countries.
+This value is hardcoded in consolidate_idd.py for all U Mobile rows.
+
+OUTPUT: ~466 rows (233 countries × 2 plan types), 466/466 SMS filled after fix
+
+
+--------------------------------------------------------------------------------
+7. CELCOMDIGI  —  scrape_celcomdigi_unifi_roaming.py
+   Source:  https://www.celcomdigi.com/roaming/multi-day-pass#check
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with <select id="country-list"> dropdown
+
+NOTE: CelcomDigi data represents roaming rates (rates while travelling abroad),
+not IDD rates (calling internationally from Malaysia). These are a different
+product — a per-day travel pass with in-country call and SMS rates.
+plan_type is set to "roaming" for all CelcomDigi rows.
+
+PROCESS:
+  1. Navigate to the live URL with Playwright.
+  2. Wait for <select id="country-list"> to appear.
+  3. Build the country list by reading all option values from the dropdown.
+  4. For each country, call select_option and wait 1500ms.
+  5. Parse div.cd-roaming-table-content-block elements:
+       - "To Malaysia" rate  → rate_fixed_per_min_myr (calling home)
+       - Within-country rate → rate_per_min_myr
+       - SMS rate            → rate_per_sms_myr
+       Rates are extracted with regex:
+         r'RM\s*([\d.]+)\s*/\s*min'  for call rates
+         r'RM\s*([\d.]+)\s*/\s*SMS'  for SMS rates
+  6. One row per country (no plan-type split).
+
+OUTPUT: ~193 rows, ~152/193 SMS filled
+
+
+--------------------------------------------------------------------------------
+8. UNIFI  —  scrape_celcomdigi_unifi_roaming.py
+   Source:  https://unifi.com.my/mobile/roaming
+--------------------------------------------------------------------------------
+
+METHOD: Playwright live scraping with Bootstrap custom dropdown
+
+NOTE: Unifi data represents roaming rates, same as CelcomDigi above.
+plan_type is set to "roaming" for all Unifi rows.
+
+KEY CHALLENGE: The country selector is not a native <select> element. It is a
+Bootstrap dropdown button (#roaming-options) that opens a custom
+.dropdown-menu. Interaction requires two steps per country:
+  1. Click #roaming-options to open the menu.
+  2. Click the matching <a class="dropdown-item"> inside the open menu.
+The menu must have the .show class before items can be clicked.
+
+A critical scoping issue was resolved during development: querying the page
+for all a.dropdown-item elements matches navigation links throughout the page,
+not just the country dropdown. The selector must be scoped to
+".dropdown-menu.show a.dropdown-item" to target only the currently-open menu.
+
+PROCESS:
+  1. Open the Unifi roaming page with Playwright.
+  2. Click #roaming-options to open the country dropdown.
+  3. Collect the country list from .dropdown-menu.show a.dropdown-item texts.
+  4. For each country:
+       a. Click #roaming-options to reopen the dropdown.
+       b. Click the matching dropdown item.
+       c. Wait 1200ms for rate cards to update.
+       d. Parse .roaming-box elements for RM rates.
+  5. One row per country (no plan-type split).
+
+OUTPUT: ~101 rows, 101/101 SMS filled
+
+
+================================================================================
+PIPELINE — HOW TO RUN A FULL REFRESH
+================================================================================
+
+Step 1: Run each brand scraper to regenerate source CSVs in data/source/
+
+  py extract_yes_idd.py                      (Yes — no browser needed)
+  py run_hotlink_idd.py                      (Hotlink — ~10 min)
+  py run_maxis_idd.py                        (Maxis — ~8 min)
+  py scrape_idd_remaining.py                 (Tune Talk — ~5 min)
+  py run_redone_idd.py                       (redONE — ~8 min)
+  py run_umobile_idd.py                      (U Mobile — ~8 min)
+  py scrape_celcomdigi_unifi_roaming.py      (CelcomDigi + Unifi — ~10 min)
+
+Step 2: Consolidate all source CSVs into data/idd.csv
+  py consolidate_idd.py
+  (TuneTalk column fix and U Mobile SMS fix applied automatically)
+
+Step 3: Normalise country names and remove duplicates
+  py normalize_countries.py
+
+Final output: data/idd.csv  (~2,980 rows, 254 unique countries, 8 brands)
+
+
+================================================================================
+FILE STRUCTURE
+================================================================================
+
+  e:\DV\
+  |
+  |-- data/
+  |   |-- idd.csv                  FINAL OUTPUT — unified IDD rate table
+  |   |-- countries.csv            Reference: country name → region (135 rows)
+  |   |-- source/                  Per-brand source CSVs (pipeline inputs)
+  |   |   |-- yes_idd.csv
+  |   |   |-- hotlink_idd.csv
+  |   |   |-- maxis_idd.csv
+  |   |   |-- tunetalk_idd.csv
+  |   |   |-- redone_idd.csv
+  |   |   |-- umobile_idd.csv
+  |   |   |-- celcomdigi_roaming.csv
+  |   |   `-- unifi_roaming.csv
+  |   |-- html_debug/              Static HTML snapshots of IDD pages
+  |   |   |-- hotlink_idd.html     Country list for run_hotlink_idd.py
+  |   |   |-- maxis_idd.html       Country list for run_maxis_idd.py
+  |   |   |-- redone_idd.html      Country list for run_redone_idd.py
+  |   |   |-- tunetalk_idd.html    Country list + post IDs for Tune Talk
+  |   |   |-- umobile_idd.html     Country list for U Mobile
+  |   |   `-- yes_roaming.html     Full page with embedded jsonIdd variable
+  |   `-- archive/                 Historical/unused CSVs (not in pipeline)
+  |
+  |-- SCRAPERS (production scripts):
+  |   |-- extract_yes_idd.py                Yes — static JSON extraction
+  |   |-- run_hotlink_idd.py                Hotlink — Playwright tab-aware
+  |   |-- run_maxis_idd.py                  Maxis — Playwright tab-aware
+  |   |-- scrape_idd_remaining.py           Tune Talk — WordPress AJAX
+  |   |-- run_redone_idd.py                 redONE — Playwright + h2/h5 parser
+  |   |-- run_umobile_idd.py                U Mobile — runner script
+  |   |-- scrape_idd_playwright.py          U Mobile — scraper (called by runner)
+  |   `-- scrape_celcomdigi_unifi_roaming.py  CelcomDigi + Unifi
+  |
+  |-- PIPELINE SCRIPTS:
+  |   |-- consolidate_idd.py       Merges source CSVs → data/idd.csv
+  |   `-- normalize_countries.py   Deduplicates country name variants
+
+
+================================================================================
+KNOWN LIMITATIONS AND DATA NOTES
+================================================================================
+
+1. MAXIS/HOTLINK PAGE TIMEOUTS (~10-15%):
+   A subset of countries (e.g. Afghanistan, D.R. Congo) intermittently produce
+   empty rate rows due to page timeout or slow rendering on the live site.
+   Affected rows will have NaN call rates. Re-running the scraper typically
+   recovers most of these entries.
+
+2. CELCOMDIGI AND UNIFI ARE ROAMING RATES, NOT IDD RATES:
+   These two brands do not publish a traditional IDD rate page. Their data
+   represents in-country voice and SMS rates while roaming abroad on a
+   day-pass product — a different service from IDD calling. plan_type is set
+   to "roaming" to distinguish these rows from prepaid/postpaid IDD rows.
+
+3. TUNETALK COLUMN ORDER BUG (auto-corrected):
+   The TuneTalk scraper (scrape_idd_remaining.py) outputs the SMS rate into
+   rate_per_min_myr due to the order in which the WordPress AJAX response
+   sequences its rate blocks. This is corrected automatically in
+   consolidate_idd.py on every run and does not require manual intervention.
+
+4. U MOBILE SMS RATE (hardcoded):
+   The U Mobile scraper does not capture the SMS rate from the live page.
+   Manual verification of the website confirms a flat RM0.35/SMS rate for
+   all countries. This value is hardcoded in consolidate_idd.py.
+
+5. COUNTRY NAME NORMALISATION:
+   The 8 brands use inconsistent destination spellings across their pages.
+   393 raw name variants are collapsed to 254 canonical names by the NORM
+   dictionary in normalize_countries.py. Common sources of inconsistency:
+     - Punctuation: "St." vs "Saint", "&" vs "and", "D.R." vs "Democratic Rep."
+     - Encoding: Türkiye rendered as UTF-8 garbage → normalised to "Turkey"
+     - Historical names: "Yugoslavia" → "Serbia", "Zaire" → "Dem. Rep. Congo"
+     - Operator-specific entries: "Indonesia_Telkomsel" → "Indonesia"
+     - Regional telecom entries: "Norway - Special Service" → "Norway"
+
+6. RATES ARE IN MYR (Malaysian Ringgit):
+   All rate values in idd.csv are denominated in RM per minute (calls) and
+   RM per SMS (messages). Some source pages display rates in sen/min
+   (1 MYR = 100 sen), but all values are converted to MYR before writing.
+
+================================================================================

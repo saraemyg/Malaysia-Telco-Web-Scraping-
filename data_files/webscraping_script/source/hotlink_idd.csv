@@ -1,0 +1,431 @@
+record_id,brand,country,region,plan_type,rate_per_min_myr,rate_fixed_per_min_myr,rate_per_sms_myr,notes,source_url,scraped_at
+1,Hotlink,Afghanistan,South Asia,prepaid,,,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+2,Hotlink,Afghanistan,South Asia,postpaid,,,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+3,Hotlink,Albania,Europe,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+4,Hotlink,Albania,Europe,postpaid,3.6,3.6,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+5,Hotlink,Algeria,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+6,Hotlink,Algeria,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+7,Hotlink,American Samoa,Oceania,prepaid,0.99,0.99,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+8,Hotlink,American Samoa,Oceania,postpaid,6.0,6.0,0.5,IDD 132: RM1.14/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+9,Hotlink,Andorra,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+10,Hotlink,Andorra,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+11,Hotlink,Angola,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+12,Hotlink,Angola,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+13,Hotlink,Anguilla,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+14,Hotlink,Anguilla,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+15,Hotlink,Antigua and Barbuda,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+16,Hotlink,Antigua and Barbuda,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+17,Hotlink,Argentina,South America,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+18,Hotlink,Argentina,South America,postpaid,4.8,4.8,0.5,IDD 132: RM0.215/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+19,Hotlink,Armenia,Caucasus,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+20,Hotlink,Armenia,Caucasus,postpaid,6.0,6.0,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+21,Hotlink,Aruba,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+22,Hotlink,Aruba,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+23,Hotlink,Australia,Oceania,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+24,Hotlink,Australia,Oceania,postpaid,1.0,1.0,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+25,Hotlink,Austria,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+26,Hotlink,Austria,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+27,Hotlink,Azerbaijan,Caucasus,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+28,Hotlink,Azerbaijan,Caucasus,postpaid,4.8,4.8,0.5,IDD 132: RM1.17/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+29,Hotlink,Bahamas,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+30,Hotlink,Bahamas,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+31,Hotlink,Bahrain,Middle East,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+32,Hotlink,Bahrain,Middle East,postpaid,3.6,3.6,0.5,IDD 132: RM0.5225/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+33,Hotlink,Bangladesh,South Asia,prepaid,0.08,0.08,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+34,Hotlink,Bangladesh,South Asia,postpaid,2.88,2.88,0.5,IDD 132: RM0.1625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+35,Hotlink,Barbados,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+36,Hotlink,Barbados,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+37,Hotlink,Belarus,Europe,prepaid,4.0,4.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+38,Hotlink,Belarus,Europe,postpaid,4.8,4.8,,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+39,Hotlink,Belgium,Europe,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+40,Hotlink,Belgium,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+41,Hotlink,Belize,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+42,Hotlink,Belize,Central America,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+43,Hotlink,Benin,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+44,Hotlink,Benin,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+45,Hotlink,Bermuda,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+46,Hotlink,Bermuda,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+47,Hotlink,Bhutan,South Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+48,Hotlink,Bhutan,South Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+49,Hotlink,Bolivia,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+50,Hotlink,Bolivia,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+51,Hotlink,Bosnia & Herzegovina,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+52,Hotlink,Bosnia & Herzegovina,Europe,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+53,Hotlink,Botswana,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+54,Hotlink,Botswana,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM1.3325/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+55,Hotlink,Brazil,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+56,Hotlink,Brazil,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+57,Hotlink,Brunei,Southeast Asia,prepaid,2.0,2.0,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+58,Hotlink,Brunei,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+59,Hotlink,Bulgaria,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+60,Hotlink,Bulgaria,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+61,Hotlink,Burkina Faso,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+62,Hotlink,Burkina Faso,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+63,Hotlink,Burundi,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+64,Hotlink,Burundi,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+65,Hotlink,Cambodia,Southeast Asia,prepaid,0.98,0.98,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+66,Hotlink,Cambodia,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.305/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+67,Hotlink,Cameroon,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+68,Hotlink,Cameroon,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+69,Hotlink,Canada,North America,prepaid,0.2,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+70,Hotlink,Canada,North America,postpaid,1.2,1.2,0.5,IDD 132: RM0.1625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+71,Hotlink,Cape Verde Island,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+72,Hotlink,Cape Verde Island,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+73,Hotlink,Cayman Islands,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+74,Hotlink,Cayman Islands,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+75,Hotlink,Central African Republic,Africa,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+76,Hotlink,Central African Republic,Africa,postpaid,6.0,6.0,0.5,IDD 132: RM4.085/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+77,Hotlink,Chad,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+78,Hotlink,Chad,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+79,Hotlink,Chile,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+80,Hotlink,Chile,South America,postpaid,4.8,4.8,,IDD 132: RM0.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+81,Hotlink,China,East Asia,prepaid,0.26,0.26,0.15,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+82,Hotlink,China,East Asia,postpaid,0.5,0.5,0.5,IDD 132: RM0.09/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+83,Hotlink,Colombia,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+84,Hotlink,Colombia,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+85,Hotlink,Congo,Africa,prepaid,4.0,4.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+86,Hotlink,Congo,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+87,Hotlink,Costa Rica,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+88,Hotlink,Costa Rica,Central America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+89,Hotlink,Croatia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+90,Hotlink,Croatia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+91,Hotlink,Cuba,Caribbean,prepaid,8.0,8.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+92,Hotlink,Cuba,Caribbean,postpaid,9.6,9.6,,IDD 132: RM4.085/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+93,Hotlink,Cyprus,Middle East,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+94,Hotlink,Cyprus,Middle East,postpaid,4.8,4.8,0.5,IDD 132: RM0.935/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+95,Hotlink,Czech Republic,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+96,Hotlink,Czech Republic,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+97,Hotlink,Denmark,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+98,Hotlink,Denmark,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+99,Hotlink,Djibouti,Africa,prepaid,7.0,7.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+100,Hotlink,Djibouti,Africa,postpaid,8.4,8.4,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+101,Hotlink,Dominica Island,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+102,Hotlink,Dominica Island,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+103,Hotlink,Dominican Republic,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+104,Hotlink,Dominican Republic,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+105,Hotlink,D.R. Congo (Zaire),Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+106,Hotlink,D.R. Congo (Zaire),Africa,postpaid,,,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+107,Hotlink,East Timor,Southeast Asia,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+108,Hotlink,East Timor,Southeast Asia,postpaid,6.0,6.0,,IDD 132: RM3.1/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+109,Hotlink,Ecuador,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+110,Hotlink,Ecuador,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+111,Hotlink,Egypt,Africa,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+112,Hotlink,Egypt,Africa,postpaid,2.88,2.88,0.5,IDD 132: RM0.865/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+113,Hotlink,El Salvador,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+114,Hotlink,El Salvador,Central America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+115,Hotlink,Equatorial Guinea,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+116,Hotlink,Equatorial Guinea,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+117,Hotlink,Eritrea,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+118,Hotlink,Eritrea,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+119,Hotlink,Estonia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+120,Hotlink,Estonia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+121,Hotlink,Ethiopia,Africa,prepaid,4.0,4.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+122,Hotlink,Ethiopia,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+123,Hotlink,Faroe Islands,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+124,Hotlink,Faroe Islands,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+125,Hotlink,Falkland Islands,Europe,prepaid,6.28,6.28,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+126,Hotlink,Falkland Islands,Europe,postpaid,7.54,7.54,0.5,IDD 132: RM2.79/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+127,Hotlink,Fiji Islands,Oceania,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+128,Hotlink,Fiji Islands,Oceania,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+129,Hotlink,Finland,Europe,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+130,Hotlink,Finland,Europe,postpaid,3.6,3.6,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+131,Hotlink,France,Europe,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+132,Hotlink,France,Europe,postpaid,1.2,1.2,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+133,Hotlink,French Guiana,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+134,Hotlink,French Guiana,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+135,Hotlink,French Polynesia,Oceania,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+136,Hotlink,French Polynesia,Oceania,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+137,Hotlink,Gabon,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+138,Hotlink,Gabon,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+139,Hotlink,Gambia,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+140,Hotlink,Gambia,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+141,Hotlink,Georgia,Caucasus,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+142,Hotlink,Georgia,Caucasus,postpaid,4.8,4.8,0.5,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+143,Hotlink,Germany,Europe,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+144,Hotlink,Germany,Europe,postpaid,1.2,1.2,0.5,IDD 132: RM0.1625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+145,Hotlink,Ghana,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+146,Hotlink,Ghana,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM0.935/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+147,Hotlink,Gibraltar,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+148,Hotlink,Gibraltar,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+149,Hotlink,Greece,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+150,Hotlink,Greece,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+151,Hotlink,Greenland,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+152,Hotlink,Greenland,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+153,Hotlink,Grenada,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+154,Hotlink,Grenada,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+155,Hotlink,Guadeloupe,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+156,Hotlink,Guadeloupe,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+157,Hotlink,Guatemala,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+158,Hotlink,Guatemala,Central America,postpaid,4.8,4.8,,IDD 132: RM1.44/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+159,Hotlink,Guinea Republic,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+160,Hotlink,Guinea Republic,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+161,Hotlink,Guyana,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+162,Hotlink,Guyana,South America,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+163,Hotlink,Haiti,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+164,Hotlink,Haiti,Caribbean,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+165,Hotlink,Honduras,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+166,Hotlink,Honduras,Central America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+167,Hotlink,Hong Kong,East Asia,prepaid,0.5,0.2,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+168,Hotlink,Hong Kong,East Asia,postpaid,0.5,0.5,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+169,Hotlink,Hungary,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+170,Hotlink,Hungary,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+171,Hotlink,Iceland,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+172,Hotlink,Iceland,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+173,Hotlink,India,South Asia,prepaid,0.12,0.12,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+174,Hotlink,India,South Asia,postpaid,2.4,0.5,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+175,Hotlink,India (Aircel),South Asia,prepaid,0.12,0.12,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+176,Hotlink,India (Aircel),South Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+177,Hotlink,Indonesia,Southeast Asia,prepaid,0.18,0.18,0.4,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+178,Hotlink,Indonesia,Southeast Asia,postpaid,2.0,2.0,0.2,IDD 132: RM0.2525/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+179,Hotlink,Indonesia (Axis),Southeast Asia,prepaid,0.22,0.22,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+180,Hotlink,Indonesia (Axis),Southeast Asia,postpaid,0.79,0.79,0.5,IDD 132: RM0.2525/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+181,Hotlink,Iran,Middle East,prepaid,2.4,2.4,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+182,Hotlink,Iran,Middle East,postpaid,2.88,2.88,,IDD 132: RM0.5225/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+183,Hotlink,Iraq,Middle East,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+184,Hotlink,Iraq,Middle East,postpaid,4.8,4.8,0.5,IDD 132: RM1.3325/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+185,Hotlink,Ireland,Europe,prepaid,2.39,0.99,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+186,Hotlink,Ireland,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+187,Hotlink,Israel,Middle East,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+188,Hotlink,Israel,Middle East,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+189,Hotlink,Italy,Europe,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+190,Hotlink,Italy,Europe,postpaid,1.2,1.2,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+191,Hotlink,Ivory Coast,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+192,Hotlink,Ivory Coast,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+193,Hotlink,Jamaica,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+194,Hotlink,Jamaica,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+195,Hotlink,Japan,East Asia,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+196,Hotlink,Japan,East Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+197,Hotlink,Jordan,Middle East,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+198,Hotlink,Jordan,Middle East,postpaid,3.6,3.6,0.5,IDD 132: RM1.0625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+199,Hotlink,Kazakhstan,Central Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+200,Hotlink,Kazakhstan,Central Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.195/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+201,Hotlink,Kenya,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+202,Hotlink,Kenya,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+203,Hotlink,Kiribati,Oceania,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+204,Hotlink,Kiribati,Oceania,postpaid,6.0,6.0,0.5,IDD 132: RM4.085/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+205,Hotlink,Korea North,East Asia,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+206,Hotlink,Korea North,East Asia,postpaid,6.0,6.0,0.5,IDD 132: RM4.085/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+207,Hotlink,Kuwait,Middle East,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+208,Hotlink,Kuwait,Middle East,postpaid,3.6,3.6,0.5,IDD 132: RM0.955/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+209,Hotlink,Kyrgyzstan,Central Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+210,Hotlink,Kyrgyzstan,Central Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+211,Hotlink,Laos,Southeast Asia,prepaid,1.27,1.27,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+212,Hotlink,Laos,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.7025/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+213,Hotlink,Latvia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+214,Hotlink,Latvia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+215,Hotlink,Lebanon,Middle East,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+216,Hotlink,Lebanon,Middle East,postpaid,3.6,3.6,,IDD 132: RM1.48/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+217,Hotlink,Lesotho,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+218,Hotlink,Lesotho,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+219,Hotlink,Libya,Africa,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+220,Hotlink,Libya,Africa,postpaid,2.88,2.88,0.5,IDD 132: RM1.765/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+221,Hotlink,Lithuania,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+222,Hotlink,Lithuania,Europe,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+223,Hotlink,Luxembourg,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+224,Hotlink,Luxembourg,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+225,Hotlink,Macau S.A.R,East Asia,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+226,Hotlink,Macau S.A.R,East Asia,postpaid,2.88,2.88,0.5,IDD 132: RM0.415/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+227,Hotlink,Macedonia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+228,Hotlink,Macedonia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+229,Hotlink,Madagascar,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+230,Hotlink,Madagascar,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+231,Hotlink,Malawi,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+232,Hotlink,Malawi,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM0.955/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+233,Hotlink,Maldives,South Asia,prepaid,3.2,3.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+234,Hotlink,Maldives,South Asia,postpaid,3.84,3.84,0.5,IDD 132: RM1.98/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+235,Hotlink,Mali,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+236,Hotlink,Mali,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+237,Hotlink,Malta,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+238,Hotlink,Malta,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+239,Hotlink,Mariana Islands,Oceania,prepaid,2.68,2.68,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+240,Hotlink,Mariana Islands,Oceania,postpaid,3.22,3.22,0.5,IDD 132: RM1.495/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+241,Hotlink,Marshall Islands,Oceania,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+242,Hotlink,Marshall Islands,Oceania,postpaid,6.0,6.0,,IDD 132: RM4.54/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+243,Hotlink,Mauritania,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+244,Hotlink,Mauritania,Africa,postpaid,4.8,4.8,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+245,Hotlink,Mauritius,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+246,Hotlink,Mauritius,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM1.17/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+247,Hotlink,Mayotte,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+248,Hotlink,Mayotte,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+249,Hotlink,Mexico,North America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+250,Hotlink,Mexico,North America,postpaid,4.8,4.8,0.5,IDD 132: RM0.685/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+251,Hotlink,Monaco,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+252,Hotlink,Monaco,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+253,Hotlink,Mongolia,East Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+254,Hotlink,Mongolia,East Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+255,Hotlink,Montenegro,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+256,Hotlink,Montenegro,Europe,postpaid,4.8,4.8,,IDD 132: RM2.44/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+257,Hotlink,Montserrat,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+258,Hotlink,Montserrat,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+259,Hotlink,Morocco,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+260,Hotlink,Morocco,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM1.765/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+261,Hotlink,Mozambique,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+262,Hotlink,Mozambique,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+263,Hotlink,Myanmar,Southeast Asia,prepaid,0.8,0.8,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+264,Hotlink,Myanmar,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.9175/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+265,Hotlink,Namibia,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+266,Hotlink,Namibia,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+267,Hotlink,Nepal,South Asia,prepaid,0.65,0.65,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+268,Hotlink,Nepal,South Asia,postpaid,2.88,2.88,0.2,IDD 132: RM0.4325/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+269,Hotlink,Netherlands,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+270,Hotlink,Netherlands,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+271,Hotlink,Netherlands Antilles,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+272,Hotlink,Netherlands Antilles,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+273,Hotlink,New Caledonia,Oceania,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+274,Hotlink,New Caledonia,Oceania,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+275,Hotlink,New Zealand,Oceania,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+276,Hotlink,New Zealand,Oceania,postpaid,1.2,1.2,0.5,IDD 132: RM0.865/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+277,Hotlink,Nicaragua,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+278,Hotlink,Nicaragua,Central America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+279,Hotlink,Niger,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+280,Hotlink,Niger,Africa,postpaid,4.8,4.8,,IDD 132: RM1.54/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+281,Hotlink,Nigeria,Africa,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+282,Hotlink,Nigeria,Africa,postpaid,2.88,2.88,0.5,IDD 132: RM1.2425/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+283,Hotlink,Norfolk Islands,Oceania,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+284,Hotlink,Norfolk Islands,Oceania,postpaid,6.0,6.0,0.5,IDD 132: RM4.085/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+285,Hotlink,Norway,Europe,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+286,Hotlink,Norway,Europe,postpaid,1.2,1.2,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+287,Hotlink,Oman,Middle East,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+288,Hotlink,Oman,Middle East,postpaid,2.88,2.88,0.5,IDD 132: RM1.1525/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+289,Hotlink,Pakistan,South Asia,prepaid,0.3,0.3,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+290,Hotlink,Pakistan,South Asia,postpaid,2.88,2.88,0.5,IDD 132: RM0.395/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+291,Hotlink,Palau,Oceania,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+292,Hotlink,Palau,Oceania,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+293,Hotlink,Palestine,Middle East,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+294,Hotlink,Palestine,Middle East,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+295,Hotlink,Panama,Central America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+296,Hotlink,Panama,Central America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+297,Hotlink,Papua New Guinea,Oceania,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+298,Hotlink,Papua New Guinea,Oceania,postpaid,4.8,4.8,,IDD 132: RM1.92/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+299,Hotlink,Paraguay,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+300,Hotlink,Paraguay,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+301,Hotlink,Peru,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+302,Hotlink,Peru,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+303,Hotlink,Philippines,Southeast Asia,prepaid,0.6,0.6,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+304,Hotlink,Philippines,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.46/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+305,Hotlink,Poland,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+306,Hotlink,Poland,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM0.54/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+307,Hotlink,Portugal,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+308,Hotlink,Portugal,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM0.685/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+309,Hotlink,Puerto Rico,Caribbean,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+310,Hotlink,Puerto Rico,Caribbean,postpaid,3.6,3.6,0.5,IDD 132: RM1.025/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+311,Hotlink,Qatar,Middle East,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+312,Hotlink,Qatar,Middle East,postpaid,2.88,2.88,0.5,IDD 132: RM0.7925/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+313,Hotlink,Republic Of Moldova,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+314,Hotlink,Republic Of Moldova,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+315,Hotlink,Romania,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+316,Hotlink,Romania,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+317,Hotlink,Russia,Europe,prepaid,2.4,2.4,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+318,Hotlink,Russia,Europe,postpaid,2.88,2.88,,IDD 132: RM0.7375/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+319,Hotlink,Rwanda,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+320,Hotlink,Rwanda,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+321,Hotlink,Samoa West,Oceania,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+322,Hotlink,Samoa West,Oceania,postpaid,6.0,6.0,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+323,Hotlink,San Marino,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+324,Hotlink,San Marino,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM3.095/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+325,Hotlink,Saudi Arabia,Middle East,prepaid,1.0,1.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+326,Hotlink,Saudi Arabia,Middle East,postpaid,1.2,1.2,0.5,IDD 132: RM0.575/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+327,Hotlink,Senegal,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+328,Hotlink,Senegal,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+329,Hotlink,Serbia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+330,Hotlink,Serbia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+331,Hotlink,Sierra Leone,Africa,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+332,Hotlink,Sierra Leone,Africa,postpaid,6.0,6.0,,IDD 132: RM2.6/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+333,Hotlink,Singapore,Southeast Asia,prepaid,0.5,0.2,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+334,Hotlink,Singapore,Southeast Asia,postpaid,0.5,0.5,0.2,IDD 132: RM0.09/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+335,Hotlink,Slovakia Republic,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+336,Hotlink,Slovakia Republic,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+337,Hotlink,Slovenia,Europe,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+338,Hotlink,Slovenia,Europe,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+339,Hotlink,Solomon Islands,Oceania,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+340,Hotlink,Solomon Islands,Oceania,postpaid,6.0,6.0,,IDD 132: RM4.54/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+341,Hotlink,Somalia,Africa,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+342,Hotlink,Somalia,Africa,postpaid,6.0,6.0,,IDD 132: RM2.86/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+343,Hotlink,South Africa,Africa,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+344,Hotlink,South Africa,Africa,postpaid,2.88,2.88,0.5,IDD 132: RM0.595/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+345,Hotlink,South Korea,East Asia,prepaid,2.39,0.7,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+346,Hotlink,South Korea,East Asia,postpaid,2.88,2.88,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+347,Hotlink,Spain,Europe,prepaid,0.99,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+348,Hotlink,Spain,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.1975/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+349,Hotlink,Sri Lanka,South Asia,prepaid,1.42,1.42,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+350,Hotlink,Sri Lanka,South Asia,postpaid,0.71,0.71,0.3,IDD 132: RM0.86/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+351,Hotlink,St. Kitts And Nevis,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+352,Hotlink,St. Kitts And Nevis,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+353,Hotlink,St. Lucia,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+354,Hotlink,St. Lucia,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+355,Hotlink,St. Maarten,Caribbean,prepaid,2.68,2.68,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+356,Hotlink,St. Maarten,Caribbean,postpaid,3.22,3.22,0.5,IDD 132: RM1.495/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+357,Hotlink,St. Pierre & Miquelon,Other,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+358,Hotlink,St. Pierre & Miquelon,Other,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+359,Hotlink,St. Vincent & Grenadines,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+360,Hotlink,St. Vincent & Grenadines,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+361,Hotlink,Sudan,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+362,Hotlink,Sudan,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM1.385/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+363,Hotlink,Sudan South,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+364,Hotlink,Sudan South,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+365,Hotlink,Surinam,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+366,Hotlink,Surinam,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+367,Hotlink,Swaziland,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+368,Hotlink,Swaziland,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+369,Hotlink,Sweden,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+370,Hotlink,Sweden,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+371,Hotlink,Switzerland,Europe,prepaid,2.39,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+372,Hotlink,Switzerland,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM0.18/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+373,Hotlink,Syria,Middle East,prepaid,3.0,3.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+374,Hotlink,Syria,Middle East,postpaid,3.6,3.6,,IDD 132: RM1.835/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+375,Hotlink,Taiwan,East Asia,prepaid,1.2,0.2,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+376,Hotlink,Taiwan,East Asia,postpaid,,,0.5,IDD 132: RM0.145/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+377,Hotlink,Tajikistan,Central Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+378,Hotlink,Tajikistan,Central Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+379,Hotlink,Tanzania,Africa,prepaid,4.0,4.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+380,Hotlink,Tanzania,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+381,Hotlink,Thailand,Southeast Asia,prepaid,0.2,0.2,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+382,Hotlink,Thailand,Southeast Asia,postpaid,2.0,2.0,0.2,IDD 132: RM0.1075/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+383,Hotlink,Togo,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+384,Hotlink,Togo,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+385,Hotlink,Trinidad And Tobago,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+386,Hotlink,Trinidad And Tobago,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+387,Hotlink,Tunisia,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+388,Hotlink,Tunisia,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+389,Hotlink,Turkey,Middle East,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+390,Hotlink,Turkey,Middle East,postpaid,3.6,3.6,0.5,IDD 132: RM0.9725/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+391,Hotlink,Turkmenistan,Central Asia,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+392,Hotlink,Turkmenistan,Central Asia,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+393,Hotlink,Turks And Caicos Islands,Caribbean,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+394,Hotlink,Turks And Caicos Islands,Caribbean,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+395,Hotlink,Uganda,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+396,Hotlink,Uganda,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+397,Hotlink,Ukraine,Europe,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+398,Hotlink,Ukraine,Europe,postpaid,2.88,2.88,0.5,IDD 132: RM1.0625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+399,Hotlink,United Arab Emirates,Middle East,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+400,Hotlink,United Arab Emirates,Middle East,postpaid,2.88,2.88,0.5,IDD 132: RM0.5225/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+401,Hotlink,United Kingdom,Europe,prepaid,3.76,3.76,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+402,Hotlink,United Kingdom,Europe,postpaid,3.75,3.75,0.5,IDD 132: RM3.76/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+403,Hotlink,Uruguay,South America,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+404,Hotlink,Uruguay,South America,postpaid,4.8,4.8,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+405,Hotlink,United States of America (USA),North America,prepaid,0.3,0.3,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+406,Hotlink,United States of America (USA),North America,postpaid,1.0,1.0,0.5,IDD 132: RM0.1625/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+407,Hotlink,USA Alaska,North America,prepaid,0.99,0.99,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+408,Hotlink,USA Alaska,North America,postpaid,1.0,1.0,0.5,IDD 132: RM0.395/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+409,Hotlink,USA Guam,Oceania,prepaid,0.99,0.99,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+410,Hotlink,USA Guam,Oceania,postpaid,1.0,1.0,0.5,IDD 132: RM1.025/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+411,Hotlink,USA Hawaii,North America,prepaid,0.99,0.99,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+412,Hotlink,USA Hawaii,North America,postpaid,1.0,1.0,0.5,IDD 132: RM0.505/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+413,Hotlink,USA UK Virgin Islands,Caribbean,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+414,Hotlink,USA UK Virgin Islands,Caribbean,postpaid,3.6,3.6,0.5,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+415,Hotlink,USA US Virgin Islands,Caribbean,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+416,Hotlink,USA US Virgin Islands,Caribbean,postpaid,3.6,3.6,0.5,IDD 132: RM1.025/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+417,Hotlink,Uzbekistan,Central Asia,prepaid,3.0,3.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+418,Hotlink,Uzbekistan,Central Asia,postpaid,3.6,3.6,0.5,IDD 132: RM1.3325/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+419,Hotlink,Venezuela,South America,prepaid,4.0,4.0,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+420,Hotlink,Venezuela,South America,postpaid,4.8,4.8,,IDD 132: RM2.34/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+421,Hotlink,Vietnam,Southeast Asia,prepaid,0.26,0.26,0.3,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+422,Hotlink,Vietnam,Southeast Asia,postpaid,2.4,2.4,0.5,IDD 132: RM0.27/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+423,Hotlink,Vietnam Domestic Premium Service,Southeast Asia,prepaid,0.26,0.26,,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+424,Hotlink,Vietnam Domestic Premium Service,Southeast Asia,postpaid,6.0,6.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+425,Hotlink,Yemen,Middle East,prepaid,2.4,2.4,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+426,Hotlink,Yemen,Middle East,postpaid,2.88,2.88,0.5,IDD 132: RM1.3325/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+427,Hotlink,Zambia,Africa,prepaid,4.0,4.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+428,Hotlink,Zambia,Africa,postpaid,4.8,4.8,0.5,IDD 132: RM1.765/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+429,Hotlink,Zimbabwe,Africa,prepaid,5.0,5.0,0.5,,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
+430,Hotlink,Zimbabwe,Africa,postpaid,6.0,6.0,,IDD 132: RM1.42/min; Dial: 132 00 <country code> <area code> <phone number>,https://www.hotlink.com.my/idd/,2026-05-18T01:05:41
