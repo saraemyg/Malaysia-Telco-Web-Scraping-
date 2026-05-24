@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EDA Q3 — Malaysia Plans</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html">Dashboard</a>
+  <a href="eda1.html">EDA Q1: Postpaid vs Prepaid</a>
+  <a href="eda2.html">EDA Q2: Personas</a>
+  <a href="eda3.html" class="active">EDA Q3: Malaysia Plans</a>
+</nav>
+
+<div class="eda-page">
+
+  <div class="eda-header">
+    <div>
+      <div class="eda-q-num">EDA Question 3</div>
+      <div class="eda-q-title">What are the general characteristics of plans that offer data in Malaysia?</div>
+    </div>
+  </div>
+
+  <div class="eda-body">
+    <!-- Top row: 2 donut charts -->
+    <div class="eda-row eda-row-2">
+      <div class="card" style="height:220px">
+        <div class="chart-title" style="text-align:center">Proportion of Plans by Call Benefits</div>
+        <div id="donut-calls" style="height:180px"></div>
+      </div>
+      <div class="card" style="height:220px">
+        <div class="chart-title" style="text-align:center">Proportion of Plans by Hotspot</div>
+        <div id="donut-hotspot" style="height:180px"></div>
+      </div>
+    </div>
+
+    <!-- Bottom row: 2 scatter + 1 donut -->
+    <div class="eda-row eda-row-3">
+      <div class="card">
+        <div class="chart-title">Amount of Data (Malaysia) vs. Price</div>
+        <div id="scatter-data-my" style="height:240px"></div>
+      </div>
+      <div class="card">
+        <div class="chart-title">Validity Days (Malaysia) vs. Price</div>
+        <div id="scatter-validity-my" style="height:240px"></div>
+      </div>
+      <div class="card" style="display:flex;flex-direction:column;align-items:center;justify-content:center">
+        <div class="chart-title" style="text-align:center">Proportion of Prepaid/Postpaid Plans (Malaysia)</div>
+        <div id="donut-pp-my" style="height:200px;width:100%"></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script type="module" src="/src/eda3.js"></script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pack Your SIM — Best Travel Plans for Malaysians</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html" class="active">Dashboard</a>
+  <a href="eda1.html">EDA Q1: Postpaid vs Prepaid</a>
+  <a href="eda2.html">EDA Q2: Personas</a>
+  <a href="eda3.html">EDA Q3: Malaysia Plans</a>
+</nav>
+
+<div class="page">
+  <!-- Header -->
+  <div class="dash-header">
+    <div>
+      <div class="dash-title" id="dynamic-title">Pack Your SIM — Best Travel Plans for Malaysians</div>
+    </div>
+    <div class="dash-credits">
+      <strong>Prepared By:</strong><br>
+      Sara Emilia Binti Sharifudin — 1221102332<br>
+      Jordan Lim Shen Hang — 241UC24151<br>
+      Zainal Zaim Hakimi bin Zainal Effendy — 1211111689
+    </div>
+  </div>
+
+  <!-- Controls row -->
+  <div class="controls-row">
+    <div class="ctrl-group">
+      <label>Country</label>
+      <select id="country-select">
+        <option value="">All</option>
+      </select>
+    </div>
+    <div class="trip-days-ctrl">
+      <label>Trip Days</label>
+      <div class="trip-days-inner">
+        <input type="range" id="trip-slider" min="1" max="50" value="1" />
+        <input type="number" id="trip-input" min="1" max="50" value="1" />
+      </div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-val" id="kpi-plans">65</div>
+      <div class="kpi-lbl">Total Plans</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-val" id="kpi-brands">8</div>
+      <div class="kpi-lbl">Total Brands</div>
+    </div>
+  </div>
+
+  <!-- Main body -->
+  <div class="dash-body">
+
+    <!-- LEFT PANEL -->
+    <div class="left-panel">
+
+      <!-- Map -->
+      <div class="map-card">
+        <div class="chart-title">Driver Map — Click Any Country</div>
+        <div id="map-container"></div>
+      </div>
+
+      <!-- Decision panel -->
+      <div class="decision-panel">
+        <div class="info-card" id="card-rec">
+          <div class="ic-label">Recommended Plan</div>
+          <div class="ic-value" id="rec-plan-val">Loading…</div>
+        </div>
+        <div class="info-card" id="card-idd">
+          <div class="ic-label">Cheapest IDD Brand</div>
+          <div class="ic-value" id="idd-val">Loading…</div>
+        </div>
+        <div class="info-card">
+          <div class="ic-label">Network Operators for Country</div>
+          <div class="ic-value" id="net-ops-val">—</div>
+        </div>
+        <div class="info-card">
+          <div class="ic-label">Countries Reachable</div>
+          <div class="ic-value" id="countries-reach-val" style="font-size:28px;font-weight:700;color:#0078d4">—</div>
+        </div>
+      </div>
+
+      <!-- Persona buttons -->
+      <div class="persona-section">
+        <div class="persona-grid" id="persona-grid"></div>
+      </div>
+
+    </div><!-- /left-panel -->
+
+    <!-- RIGHT PANEL -->
+    <div class="right-panel">
+
+      <div class="chart-card">
+        <div class="chart-title">Cost per GB of Roaming Data — by Brand</div>
+        <div class="chart-subtitle">Average of price per GB by Brand</div>
+        <div id="bar-chart"></div>
+      </div>
+
+      <div class="chart-card" style="flex:1.4">
+        <div class="chart-title">Value vs Price : Find your sweet spot</div>
+        <div class="chart-subtitle" style="font-size:9px">
+          Travel Value Score = roaming data (30%) · countries covered (25%) · calls (15%) · validity (15%) · hotspot (10%) · insurance (5%)
+        </div>
+        <div id="scatter-chart" style="height:260px"></div>
+      </div>
+
+    </div><!-- /right-panel -->
+
+  </div><!-- /dash-body -->
+</div><!-- /page -->
+
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

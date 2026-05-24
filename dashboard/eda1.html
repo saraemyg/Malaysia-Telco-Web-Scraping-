@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EDA Q1 — Postpaid vs Prepaid</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html">Dashboard</a>
+  <a href="eda1.html" class="active">EDA Q1: Postpaid vs Prepaid</a>
+  <a href="eda2.html">EDA Q2: Personas</a>
+  <a href="eda3.html">EDA Q3: Malaysia Plans</a>
+</nav>
+
+<div class="eda-page">
+
+  <div class="eda-header">
+    <div>
+      <div class="eda-q-num">EDA Question 1</div>
+      <div class="eda-q-title">Which is more worth it, Postpaid or Prepaid?</div>
+    </div>
+    <div class="card" style="flex:1;margin-left:24px;max-width:240px;height:200px">
+      <div class="chart-title" style="text-align:center;margin-bottom:6px">Proportion of Prepaid/Postpaid Plans</div>
+      <div id="donut-pp" style="height:160px"></div>
+    </div>
+  </div>
+
+  <div class="eda-row eda-row-3">
+    <div class="card">
+      <div class="chart-title">Average of price_myr by prepaid/postpaid</div>
+      <div id="bar-price" style="height:200px"></div>
+    </div>
+    <div class="card">
+      <div class="chart-title">Average of data_gb_roaming by prepaid/postpaid</div>
+      <div id="bar-roaming" style="height:200px"></div>
+    </div>
+    <div class="card">
+      <div class="chart-title">Average of data_gb_malaysia by prepaid/postpaid</div>
+      <div id="bar-malaysia" style="height:200px"></div>
+    </div>
+  </div>
+
+</div>
+
+<script type="module" src="/src/eda1.js"></script>
+</body>
+</html>

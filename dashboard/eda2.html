@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EDA Q2 — Personas</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html">Dashboard</a>
+  <a href="eda1.html">EDA Q1: Postpaid vs Prepaid</a>
+  <a href="eda2.html" class="active">EDA Q2: Personas</a>
+  <a href="eda3.html">EDA Q3: Malaysia Plans</a>
+</nav>
+
+<div class="eda-page">
+
+  <div class="eda-header">
+    <div>
+      <div class="eda-q-num">EDA Question 2</div>
+      <div class="eda-q-title">What are the differences between various personas?</div>
+    </div>
+  </div>
+
+  <div class="eda-body">
+    <!-- Top row: 2 bar charts -->
+    <div class="eda-row eda-row-2">
+      <div class="card">
+        <div class="chart-title">Number of Plans by Persona</div>
+        <div id="bar-count-persona" style="height:220px"></div>
+      </div>
+      <div class="card">
+        <div class="chart-title">Average Price by Persona</div>
+        <div id="bar-avg-price-persona" style="height:220px"></div>
+      </div>
+    </div>
+
+    <!-- Bottom row: 3 scatter plots -->
+    <div class="eda-row eda-row-3">
+      <div class="card">
+        <div class="chart-title">Amount of Roaming Data vs. Price by Persona</div>
+        <div id="scatter-roaming" style="height:240px"></div>
+      </div>
+      <div class="card">
+        <div class="chart-title">Country Count vs. Price by Persona</div>
+        <div id="scatter-country" style="height:240px"></div>
+      </div>
+      <div class="card">
+        <div class="chart-title">Validity Days vs. Price by Persona</div>
+        <div id="scatter-validity" style="height:240px"></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script type="module" src="/src/eda2.js"></script>
+</body>
+</html>
